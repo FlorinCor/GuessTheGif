@@ -47,9 +47,9 @@ The local scanner reports **0/100 local animations** and correctly exits 1 becau
 
 - `remote-media-report.json`: 100 real GET checks, decoded dimensions/frames/sizes and SHA-256 hashes.
 - `content-review.json`: 100 screened sequences, curation and audience cautions; no venue or rights approval.
-- `browser-media-results.json`: 100 actual browser animations at the nested local HTTP path.
+- `browser-media-results.json`: 100 actual browser animations at the nested local HTTP path, plus 100 on the public Pages URL under `liveGitHubPagesCheck` and six live gameplay/asset checks.
 - `ui-test-results.json`: 14 deterministic gameplay/failure test groups with synthetic media.
 - `print-test-results.json`: three-page A4 print verification.
 - `../data/media-report.json`: local files only, 0/100; separate from remote validation.
 
-The owner explicitly approved the public [FlorinCor/GuessTheGif repository](https://github.com/FlorinCor/GuessTheGif) and [GitHub Pages site](https://florincor.github.io/GuessTheGif/). Pages uses `main` at `/(root)` with HTTPS. The original 40-question deployment succeeded and was checked with live GIFs. The 100-question edition is prepared and locally validated; its public deployment and live verification are the remaining release steps.
+The owner explicitly approved the public [FlorinCor/GuessTheGif repository](https://github.com/FlorinCor/GuessTheGif) and [GitHub Pages site](https://florincor.github.io/GuessTheGif/). Pages uses `main` at `/(root)` with HTTPS. The original 40-question deployment succeeded and was checked with live GIFs. The 100-question expansion [deployed successfully](https://github.com/FlorinCor/GuessTheGif/actions/runs/37485942009). Live checks confirm all relative assets return HTTP 200, all 100 images load in host preflight, manual timing/scoring/navigation/resume work, q100 reaches the final leaderboard, the answer sheet has 100 spaces across three pages, and 390 px reduced-motion play works. No JavaScript page errors or host approvals were produced. All 100 GIFs also showed changing pixels over a complete decoded loop on the public Pages URL. Both the local and public animation records are retained in `browser-media-results.json`; the six live gameplay/asset checks are recorded alongside the public results.

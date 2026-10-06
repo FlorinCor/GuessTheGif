@@ -53,8 +53,12 @@
     "pagesPath": "/",
     "httpsEnforced": true,
     "deployedOn": "2026-10-06",
-    "questionCount": 40,
-    "updateTo100Pending": true
+    "questionCount": 100,
+    "updateTo100Pending": false,
+    "expansionCommit": "c54d9579f5681faa1c99292455e80865946287c9",
+    "expansionBuildUrl": "https://github.com/FlorinCor/GuessTheGif/actions/runs/37485942009",
+    "liveAnimationsPassed": 100,
+    "liveCheckedAt": "2026-10-06T15:19:52.027Z"
   },
   "rounds": 10,
   "addedIds": [

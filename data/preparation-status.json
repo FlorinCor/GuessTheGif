@@ -43,5 +43,15 @@
     "standard-giphy-id-path": 8,
     "derived-provider-path": 7
   },
-  "nextAction": "Run review.html on the actual venue network/display; only publish after explicit user approval."
+  "nextAction": "Before the event, use review.html on the actual venue network/display, confirm the noted resolution/contrast cautions and export genuine host approvals.",
+  "publication": {
+    "repositoryUrl": "https://github.com/FlorinCor/GuessTheGif",
+    "siteUrl": "https://florincor.github.io/GuessTheGif/",
+    "public": true,
+    "approvedByOwner": true,
+    "pagesBranch": "main",
+    "pagesPath": "/",
+    "httpsEnforced": true,
+    "deployedOn": "2026-10-06"
+  }
 }

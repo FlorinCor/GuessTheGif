@@ -46,7 +46,7 @@ Projector quality remains unresolved for q03 (374 px), q08 (361 px), q31 (353 px
 
 The local-media scanner correctly reports **0/40 local GIFs** and exits 1 because no permitted local copies were supplied. The empty map prevents 40 requests for nonexistent local files. This is a remote-media edition and requires internet access.
 
-GitHub Pages packaging is ready: relative URLs, `.nojekyll` and nested-path checks pass. No repository was created, no commit or push was made, no live Pages deployment was tested, and nothing was published. Public deployment requires the user's approval.
+Initial preparation stopped before publication. Relative URLs, `.nojekyll` and nested-path checks passed. The owner subsequently explicitly approved the public repository and GitHub Pages deployment; see the deployment record below.
 
 ## Evidence
 
@@ -56,3 +56,12 @@ GitHub Pages packaging is ready: relative URLs, `.nojekyll` and nested-path chec
 - `browser-media-results.json`: 40 actual browser animations, timing and changing-pixel hashes.
 - `ui-test-results.json`: deterministic gameplay and failure-test scope.
 - `../data/media-report.json`: local-files-only report; it must not be confused with remote validation.
+
+
+## Public deployment — 6 October 2026
+
+The owner explicitly approved public publication. [FlorinCor/GuessTheGif](https://github.com/FlorinCor/GuessTheGif) is public; [the live game](https://florincor.github.io/GuessTheGif/) deploys from `main` at `/(root)`, with HTTPS enforced. The initial GitHub Pages [build and deployment](https://github.com/FlorinCor/GuessTheGif/actions/runs/37479848690) succeeded.
+
+Live Chrome checks used real provider media and real localStorage, without fixtures. All 40 GIFs showed changing pixels over at least one complete decoded loop on the actual public URL. The host preflight also loaded all 40; no content/venue approval boxes were granted. Homepage, relative JavaScript/CSS assets, host review and printable sheet returned HTTP 200. Timer start/pause, reveal, scoring, navigation, saved-game resume, 1366 × 768 control fit, 390 px layout and reduced-motion opt-in passed. The printable sheet has 40 spaces and no answers. No JavaScript page errors occurred.
+
+Exact live animation results and the five live gameplay/asset checks are under `liveGitHubPagesCheck` in `browser-media-results.json`; the original local-path check remains in that file. These live checks used a temporary adaptation of the existing browser suite for the HTTPS URL. The game code and media selections were unchanged by publication. The resolution/venue cautions and lack of bundled local GIFs still apply.

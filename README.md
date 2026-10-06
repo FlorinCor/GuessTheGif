@@ -40,13 +40,13 @@ python3 scripts/media.py
 
 The standard-library script requires multiple frames, validates GIF structure and LZW pixel counts, rejects HTML/stills/truncation, and writes `data/local-media.js` and `data/media-report.json`. Exit 0 means all 40 local animations validate; exit 1 means missing/invalid local files. Neither establishes visual approval or permission. With this delivery, 0 local files is expected. Valid local files are preferred; a missing mapped file falls back to its remote URL. Empty maps produce no nonexistent local-GIF requests.
 
-## GitHub Pages — after approval
+## GitHub Pages
 
-Nothing has been published or pushed. **Get the owner's explicit approval before creating a public repository, pushing publicly or enabling public Pages hosting.**
+Published with the owner's approval. [Repository](https://github.com/FlorinCor/GuessTheGif) · [Live game](https://florincor.github.io/GuessTheGif/) · [Host review](https://florincor.github.io/GuessTheGif/review.html). Pages uses the `main` branch at `/(root)`, with HTTPS enabled.
 
-After approval, upload/commit the contents of this folder to the repository's `main` branch at the root. `index.html`, `.nojekyll`, `data/`, `assets/` and the other site files must retain their relative locations. Do not put an extra enclosing folder around the site or upload host score/review exports.
+To publish updates, commit and push changes to this repository's `main` branch at the root. `index.html`, `.nojekyll`, `data/`, `assets/` and the other site files must retain their relative locations. Do not put an extra enclosing folder around the site or upload host score/review exports.
 
-In repository **Settings → Pages → Build and deployment → Source**, choose **Deploy from a branch**, **main**, **/(root)** and **Save**. Wait for deployment and open GitHub's displayed URL, normally `https://USERNAME.github.io/REPOSITORY/`. Run `review.html` again at that URL and check the actual host browser before the event. These steps follow [GitHub's publishing-source instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). A live Pages deployment has not been tested.
+In repository **Settings → Pages → Build and deployment → Source**, choose **Deploy from a branch**, **main**, **/(root)** and **Save**. Wait for deployment and open GitHub's displayed URL, normally `https://USERNAME.github.io/REPOSITORY/`. Run `review.html` again at that URL and check the actual host browser before the event. These steps follow [GitHub's publishing-source instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). The initial Pages deployment succeeded; live verification is recorded in `evidence/VALIDATION.md`.
 
 Answers, source links and the host pages can be inspected by anyone who can access the static site. `noindex` is not access control. Use synthetic team names; do not upload confidential workplace or attendee data. Saved names/scores stay in the host browser's localStorage. Remote GIF requests contact third-party providers; a complete permitted local-media setup avoids those requests when its files load.
 

@@ -2,9 +2,9 @@
 
 **Spoilers. Keep this off the audience display.**
 
-Prepared 6 October 2026; media validation updated in this project. The 40 remote animations were fetched for private inspection, decoded and screened across their full frame sequences. Eight selections were improved. No third-party GIFs are bundled for redistribution. See evidence/VALIDATION.md and the dated media reports for exact results and remaining venue checks; host approvals are recorded separately in review.html.
+100 selections in 10 rounds. Media record: 100/100 remote animations validated; 100/100 frame sequences screened. No third-party GIFs are bundled. See evidence/VALIDATION.md for dated checks and venue cautions; host approvals are recorded separately in review.html.
 
-One point per correct source. Accept the aliases below and equivalent localized titles. No extra points for a year, actor or precise sequel. For broad franchise entries, do not demand a sequel title that the source metadata does not establish. For the TV round, require the series rather than just the character.
+One point per correct source. Accept the aliases below and equivalent localized titles. For franchise entries, do not demand a sequel title that the source evidence does not establish. TV entries require the series; character names count only when explicitly listed as an accepted source title.
 
 ## Round 1 — The crowd-pleasers
 
@@ -66,6 +66,96 @@ One point per correct source. Accept the aliases below and equivalent localized 
 | 39 | Wednesday | Wednesday dances at the school event. |
 | 40 | The Mandalorian | Grogu sips from a bowl. |
 
+## Round 5 — More movie magic
+
+| # | Answer | Scene / recognition cue |
+|---|---|---|
+| 41 | The Wizard of Oz | Ruby slippers click together. |
+| 42 | Singin’ in the Rain | Gene Kelly dances with an umbrella in the rain. |
+| 43 | Mary Poppins | A nanny flies with an umbrella. |
+| 44 | Willy Wonka & the Chocolate Factory | A factory owner gives a knowing smile. |
+| 45 | The Sound of Music | Maria opens her arms on a hillside. |
+| 46 | Grease | Danny adjusts his hair beside a car. |
+| 47 | Dirty Dancing | Johnny lifts Baby above the dance floor. |
+| 48 | The Breakfast Club | Brian adjusts his sunglasses. |
+| 49 | Ferris Bueller’s Day Off | Ferris gives the camera a knowing look. |
+| 50 | Casablanca | Rick and Louis watch a plane depart. |
+
+## Round 6 — Animated encores
+
+| # | Answer | Scene / recognition cue |
+|---|---|---|
+| 51 | Monsters, Inc. | Mike and Sulley walk together. |
+| 52 | Up | Carl reacts to Russell at the front door. |
+| 53 | WALL-E | WALL-E and EVE share a close moment. |
+| 54 | Inside Out | Joy reacts in the control room. |
+| 55 | Zootopia | Nick and Finnick share a conspiratorial laugh. |
+| 56 | Moana | Maui raises an eyebrow. |
+| 57 | Coco | Miguel reacts with painted skeletal makeup. |
+| 58 | Encanto | Mirabel gives an attentive look. |
+| 59 | How to Train Your Dragon | Toothless smiles. |
+| 60 | Lilo & Stitch | Lilo and Stitch perform a dance gesture. |
+
+## Round 7 — Comedy favourites
+
+| # | Answer | Scene / recognition cue |
+|---|---|---|
+| 61 | The Princess Bride | Westley says “As you wish” and falls backwards. |
+| 62 | Mean Girls | Regina gives a satisfied smile. |
+| 63 | Legally Blonde | Elle holds her small dog. |
+| 64 | The Devil Wears Prada | Miranda dismisses an exchange with “That’s all”. |
+| 65 | School of Rock | Dewey gives a salute in the classroom. |
+| 66 | Mrs. Doubtfire | A disguised father waves from a window. |
+| 67 | The Mask | A green-faced character reacts with a dropping jaw and heart-shaped eyes. |
+| 68 | Dumb and Dumber | Lloyd covers his ears during an argument in the car. |
+| 69 | The Big Lebowski | The Dude reacts while driving. |
+| 70 | Austin Powers | A colourful secret agent reacts enthusiastically. |
+
+## Round 8 — Heroes and horizons
+
+| # | Answer | Scene / recognition cue |
+|---|---|---|
+| 71 | The Dark Knight | The Joker claps inside a cell. |
+| 72 | Superman | A caped hero flies above Earth. |
+| 73 | Spider-Man | A costumed hero gives a salute. |
+| 74 | Iron Man | Tony closes the faceplate of his armoured suit. |
+| 75 | Terminator | A cyborg adjusts his sunglasses. |
+| 76 | Black Panther | Shuri reveals her face from the suit. |
+| 77 | Guardians of the Galaxy | Peter Quill introduces himself as Star-Lord. |
+| 78 | Inception | A small top spins on a table. |
+| 79 | Interstellar | Cooper watches an emotional recording. |
+| 80 | Dune | Paul stands at a ceremony. |
+
+## Round 9 — Another reel
+
+| # | Answer | Scene / recognition cue |
+|---|---|---|
+| 81 | Barbie | A pink-clad traveller smiles beneath a cowboy hat. |
+| 82 | Oppenheimer | A physicist looks ahead under his hat. |
+| 83 | The Hunger Games | Katniss and Peeta salute beside Effie. |
+| 84 | Twilight | Edward walks wearing sunglasses. |
+| 85 | The Mummy | Jonathan takes a swig beside Rick and Evelyn. |
+| 86 | Jumanji | Alan appears in his jungle clothes. |
+| 87 | Paddington | A bear tries two electric toothbrushes. |
+| 88 | The Grand Budapest Hotel | Gustave reacts in his purple uniform. |
+| 89 | La La Land | Two aspiring performers dance together. |
+| 90 | Beetlejuice | A striped-suit trickster grins. |
+
+## Round 10 — More small-screen favourites
+
+| # | Answer | Scene / recognition cue |
+|---|---|---|
+| 91 | Seinfeld | Elaine shows her unusual dance moves. |
+| 92 | Parks and Recreation | Ron dances in his red shirt. |
+| 93 | The Big Bang Theory | Sheldon reacts from his couch. |
+| 94 | Modern Family | Phil jogs along a street. |
+| 95 | Schitt’s Creek | David turns in a polka-dot sweater and a towel on his head. |
+| 96 | Ted Lasso | A football coach points to an encouraging sign. |
+| 97 | Doctor Who | A time traveller waves hello. |
+| 98 | Sherlock | The detective gestures with a pistol during a domestic conversation. |
+| 99 | The IT Crowd | Moss smirks at his computer. |
+| 100 | SpongeBob SquarePants | A cheerful sea dweller appears in his work hat. |
+
 ## Full media and acceptance details
 
 ### 01 — The Matrix
@@ -86,7 +176,7 @@ One point per correct source. Accept the aliases below and equivalent localized 
 **Direct GIF:** https://media1.tenor.com/m/GTpLWsrY6cMAAAAd/titanic-open-your-eyes.gif
 **Local filename:** `assets/gifs/q02.gif`
 **URL evidence:** observed-source-image-link.
-**Review:** Watch the entire loop and check captions, motion, answer and workplace suitability.
+**Review:** Watch the full loop and check captions, source and suitability.
 
 ### 03 — Back to the Future
 
@@ -106,7 +196,7 @@ One point per correct source. Accept the aliases below and equivalent localized 
 **Direct GIF:** https://media1.tenor.com/m/Ba6ybKvObY0AAAAd/jurassic-park-surprised.gif
 **Local filename:** `assets/gifs/q04.gif`
 **URL evidence:** observed-source-image-link.
-**Review:** Watch the entire loop and check captions, motion, answer and workplace suitability.
+**Review:** Watch the full loop and check captions, source and suitability.
 
 ### 05 — Home Alone
 
@@ -136,7 +226,7 @@ One point per correct source. Accept the aliases below and equivalent localized 
 **Direct GIF:** https://media1.tenor.com/m/TkUUnoTzjdoAAAAd/sorting-hat.gif
 **Local filename:** `assets/gifs/q07.gif`
 **URL evidence:** observed-source-image-link.
-**Review:** Watch the entire loop and check captions, motion, answer and workplace suitability.
+**Review:** Watch the full loop and check captions, source and suitability.
 
 ### 08 — Pirates of the Caribbean
 
@@ -286,7 +376,7 @@ One point per correct source. Accept the aliases below and equivalent localized 
 **Direct GIF:** https://media1.tenor.com/m/ZAEsVcBljoAAAAAd/et-et-the-extra-terrestrial.gif
 **Local filename:** `assets/gifs/q22.gif`
 **URL evidence:** observed-source-image-link.
-**Review:** Watch the entire loop and check captions, motion, answer and workplace suitability.
+**Review:** Watch the full loop and check captions, source and suitability.
 
 ### 23 — Pulp Fiction
 
@@ -316,7 +406,7 @@ One point per correct source. Accept the aliases below and equivalent localized 
 **Direct GIF:** https://media1.tenor.com/m/GNVFLXZ4rCsAAAAd/truman-show-good-morning.gif
 **Local filename:** `assets/gifs/q25.gif`
 **URL evidence:** observed-source-image-link.
-**Review:** Watch the entire loop and check captions, motion, answer and workplace suitability.
+**Review:** Watch the full loop and check captions, source and suitability.
 
 ### 26 — Men in Black
 
@@ -467,4 +557,604 @@ One point per correct source. Accept the aliases below and equivalent localized 
 **Local filename:** `assets/gifs/q40.gif`
 **URL evidence:** observed-source-image-link.
 **Review:** For this television round require The Mandalorian; Baby Yoda is the character, not the source. Announce the rule in advance.
+
+### 41 — The Wizard of Oz
+
+**Accept:** The Wizard of Oz; Wizard of Oz; Le Magicien d’Oz.
+**Hint:** A yellow road leads four unlikely friends to a mysterious ruler.
+**Source page:** https://tenor.com/view/clicking-heels-the-wizard-of-oz-ruby-slippers-warner-bros-entertainment-warner-bros-pictures-gif-2486798180485000823
+**Direct GIF:** https://media1.tenor.com/m/IoLhxP_lbncAAAAC/clicking-heels-the-wizard-of-oz.gif
+**Local filename:** `assets/gifs/q41.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 42 — Singin’ in the Rain
+
+**Accept:** Singin’ in the Rain; Singin in the Rain; Singing in the Rain; Chantons sous la pluie.
+**Hint:** A silent-film star finds his feet as Hollywood discovers sound.
+**Source page:** https://tenor.com/view/singing-in-the-rain-don-lockwood-gene-kelly-dancing-dance-moves-gif-16582845
+**Direct GIF:** https://media1.tenor.com/m/21mp6HUq2q0AAAAC/singing-in-the-rain-don-lockwood.gif
+**Local filename:** `assets/gifs/q42.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 43 — Mary Poppins
+
+**Accept:** Mary Poppins; Mary Poppins Returns.
+**Hint:** A remarkable nanny arrives with a bag that holds far more than it should.
+**Source page:** https://tenor.com/view/mary-poppins-1964-flying-julie-andrews-gif-13107220
+**Direct GIF:** https://media1.tenor.com/m/mf4EM0Is6PUAAAAC/mary-poppins-1964.gif
+**Local filename:** `assets/gifs/q43.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 44 — Willy Wonka & the Chocolate Factory
+
+**Accept:** Willy Wonka & the Chocolate Factory; Willy Wonka and the Chocolate Factory; Charlie and the Chocolate Factory; Charlie et la chocolaterie.
+**Hint:** A golden ticket opens the doors to an extraordinary sweets factory.
+**Source page:** https://tenor.com/view/gene-wilder-sarcastic-wonka-gif-5926299
+**Direct GIF:** https://media1.tenor.com/m/IgqwjFbyF70AAAAC/gene-wilder-sarcastic.gif
+**Local filename:** `assets/gifs/q44.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 45 — The Sound of Music
+
+**Accept:** The Sound of Music; Sound of Music; La Mélodie du bonheur.
+**Hint:** A governess teaches seven children to sing in the Austrian hills.
+**Source page:** https://tenor.com/view/happy-thanksgivingwith-music-the-sound-gif-27147071
+**Direct GIF:** https://media1.tenor.com/m/JsP5Jhz5NV8AAAAC/happy-thanksgivingwith.gif
+**Local filename:** `assets/gifs/q45.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 46 — Grease
+
+**Accept:** Grease.
+**Hint:** A summer romance follows two teenagers back to high school.
+**Source page:** https://tenor.com/view/grease-handsome-brush-up-travolta-gif-14072815
+**Direct GIF:** https://media1.tenor.com/m/HxuS8-cyFFcAAAAC/grease-handsome.gif
+**Local filename:** `assets/gifs/q46.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 47 — Dirty Dancing
+
+**Accept:** Dirty Dancing.
+**Hint:** A holiday resort introduces a young guest to an unexpected dance partner.
+**Source page:** https://tenor.com/view/patrick-swayze-lifting-dirty-dancing-gif-13487268
+**Direct GIF:** https://media1.tenor.com/m/8yVz3eIYOvQAAAAC/patrick-swayze-lifting.gif
+**Local filename:** `assets/gifs/q47.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Low-lit dance floor: check projector contrast.
+
+### 48 — The Breakfast Club
+
+**Accept:** The Breakfast Club; Breakfast Club.
+**Hint:** Five very different students spend Saturday in detention.
+**Source page:** https://tenor.com/view/the-breakfast-club-brian-johnson-anthony-michael-hall-cool-sunglasses-gif-4110995
+**Direct GIF:** https://media1.tenor.com/m/QWZAInP_zn4AAAAC/the-breakfast-club-brian-johnson.gif
+**Local filename:** `assets/gifs/q48.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 49 — Ferris Bueller’s Day Off
+
+**Accept:** Ferris Bueller’s Day Off; Ferris Buellers Day Off; Ferris Bueller; La Folle Journée de Ferris Bueller.
+**Hint:** A resourceful teenager turns a school absence into a Chicago adventure.
+**Source page:** https://tenor.com/view/ferris-bueller-sarcasm-reaction-funny-smile-gif-16735801
+**Direct GIF:** https://media1.tenor.com/m/aYgAkSGYgScAAAAC/ferris-bueller-sarcasm.gif
+**Local filename:** `assets/gifs/q49.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 50 — Casablanca
+
+**Accept:** Casablanca.
+**Hint:** An expatriate café owner meets an old love during wartime.
+**Source page:** https://tenor.com/view/casablanca-humphrey-bogart-take-off-plane-jet-gif-15298534112591075914
+**Direct GIF:** https://media1.tenor.com/m/1E9PuGUv2koAAAAC/casablanca-humphrey-bogart.gif
+**Local filename:** `assets/gifs/q50.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Ordinary friendship dialogue caption; no source title. Black-and-white airport scene: check contrast.
+
+### 51 — Monsters, Inc.
+
+**Accept:** Monsters, Inc.; Monsters Inc; Monstres et Cie; Monsters University.
+**Hint:** Two unlikely workers discover a child on the other side of a closet door.
+**Source page:** https://tenor.com/view/monsters-inc-monsters-inc-movie-movie-monsters-inc-mike-sully-sully-mike-gif-7916710858025051064
+**Direct GIF:** https://media1.tenor.com/m/bd3OlLIPo7gAAAAC/monsters-inc-monsters-inc-movie.gif
+**Local filename:** `assets/gifs/q51.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 52 — Up
+
+**Accept:** Up; Là-haut.
+**Hint:** A house takes to the sky with a reluctant explorer and a young stowaway.
+**Source page:** https://tenor.com/view/up-movie-disney-no-carl-gif-15115720
+**Direct GIF:** https://media1.tenor.com/m/8fBfqQQPAKgAAAAC/up-movie.gif
+**Local filename:** `assets/gifs/q52.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 53 — WALL-E
+
+**Accept:** WALL-E; Wall E; WallE.
+**Hint:** A little robot cleans up a deserted planet and discovers companionship.
+**Source page:** https://tenor.com/view/walle-gif-23393521
+**Direct GIF:** https://media1.tenor.com/m/Lf3dLerWVqUAAAAC/walle.gif
+**Local filename:** `assets/gifs/q53.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 54 — Inside Out
+
+**Accept:** Inside Out; Inside Out 2; Vice-versa.
+**Hint:** A young person’s feelings have a control room of their own.
+**Source page:** https://tenor.com/view/inside-out-inside-out-joy-gif-3745459444657506147
+**Direct GIF:** https://media1.tenor.com/m/M_qLhUdxR2MAAAAC/inside-out-inside-out-joy.gif
+**Local filename:** `assets/gifs/q54.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 55 — Zootopia
+
+**Accept:** Zootopia; Zootropolis; Zootopie; Zootopia 2.
+**Hint:** An ambitious rabbit officer teams up with a resourceful fox.
+**Source page:** https://tenor.com/view/zootopia-nick-wilde-judy-hopps-laugh-laughing-gif-6135689749395944453
+**Direct GIF:** https://media1.tenor.com/m/VSZZUZzANAUAAAAC/zootopia-nick-wilde.gif
+**Local filename:** `assets/gifs/q55.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 56 — Moana
+
+**Accept:** Moana; Vaiana; Moana 2; Vaiana 2.
+**Hint:** A young voyager crosses the ocean to restore a stolen treasure.
+**Source page:** https://tenor.com/view/maui-moana-disney-eyebrow-looking-gif-26071535
+**Direct GIF:** https://media1.tenor.com/m/BBY0Al0M7rcAAAAC/maui-moana.gif
+**Local filename:** `assets/gifs/q56.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 57 — Coco
+
+**Accept:** Coco.
+**Hint:** A young musician discovers his family’s story in the land of the dead.
+**Source page:** https://tenor.com/view/coco-miguel-annoyed-gif-15541240
+**Direct GIF:** https://media1.tenor.com/m/FJGofG8LR4gAAAAC/coco-miguel.gif
+**Local filename:** `assets/gifs/q57.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 58 — Encanto
+
+**Accept:** Encanto.
+**Hint:** A family’s extraordinary gifts depend on the magic in their home.
+**Source page:** https://tenor.com/view/encanto-mirabel-madrigal-stare-staring-stares-gif-24894379
+**Direct GIF:** https://media1.tenor.com/m/6Yh6ZMnx1WcAAAAC/encanto-mirabel-madrigal.gif
+**Local filename:** `assets/gifs/q58.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 59 — How to Train Your Dragon
+
+**Accept:** How to Train Your Dragon; How To Train Your Dragon; Dragons.
+**Hint:** A young islander befriends the creature his village fears.
+**Source page:** https://tenor.com/view/toothless-smile-gif-7745071133527507162
+**Direct GIF:** https://media1.tenor.com/m/a3wFKSoKANoAAAAC/toothless-smile.gif
+**Local filename:** `assets/gifs/q59.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 60 — Lilo & Stitch
+
+**Accept:** Lilo & Stitch; Lilo and Stitch.
+**Hint:** A little girl adopts an unusual companion who has arrived from space.
+**Source page:** https://tenor.com/view/lilo-stitch-like-this-gif-19020391
+**Direct GIF:** https://media1.tenor.com/m/yvX3fM7b40sAAAAC/lilo-stitch.gif
+**Local filename:** `assets/gifs/q60.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 61 — The Princess Bride
+
+**Accept:** The Princess Bride; Princess Bride.
+**Hint:** A storybook adventure mixes true love, swordplay and an unlikely rescue.
+**Source page:** https://tenor.com/view/princess-bride-bow-cary-elwes-gif-22918306
+**Direct GIF:** https://media1.tenor.com/m/s1w62ls6xlQAAAAC/princess-bride.gif
+**Local filename:** `assets/gifs/q61.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Ordinary “As you wish” dialogue caption; no source title.
+
+### 62 — Mean Girls
+
+**Accept:** Mean Girls; Lolita malgré moi.
+**Hint:** A newcomer learns the rules of an influential high-school clique.
+**Source page:** https://tenor.com/view/meangirls-regina-george-rachel-mcadams-regina-regina-smiles-gif-22957837
+**Direct GIF:** https://media1.tenor.com/m/gLYmRkiEzMEAAAAC/meangirls-regina-george.gif
+**Local filename:** `assets/gifs/q62.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 63 — Legally Blonde
+
+**Accept:** Legally Blonde; La Revanche d’une blonde.
+**Hint:** An underestimated student follows an ex to law school and finds her own ambition.
+**Source page:** https://tenor.com/view/legally-blonde-elle-woods-bruiser-woods-gemini-vegetarians-gif-8327346031541500226
+**Direct GIF:** https://media1.tenor.com/m/c5CtGHPKOUIAAAAC/legally-blonde-elle-woods.gif
+**Local filename:** `assets/gifs/q63.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Ordinary “We’re both Gemini vegetarians” caption; no source title.
+
+### 64 — The Devil Wears Prada
+
+**Accept:** The Devil Wears Prada; Devil Wears Prada; Le Diable s’habille en Prada.
+**Hint:** An assistant learns to survive the demands of a formidable fashion editor.
+**Source page:** https://tenor.com/view/meryl-streep-emily-blunt-anne-hathaway-2006-the-devil-wears-prada-gif-14494472007498162645
+**Direct GIF:** https://media1.tenor.com/m/ySa1fu3FYdUAAAAC/meryl-streep-emily-blunt.gif
+**Local filename:** `assets/gifs/q64.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Ordinary “That’s all” caption; no source title.
+
+### 65 — School of Rock
+
+**Accept:** School of Rock; Rock Academy.
+**Hint:** A substitute teacher secretly turns his class into a band.
+**Source page:** https://tenor.com/view/school-of-rock-jack-black-dewey-finn-salute-gif-4762745
+**Direct GIF:** https://media1.tenor.com/m/pQKpuY8fWVgAAAAC/school-of-rock-jack-black.gif
+**Local filename:** `assets/gifs/q65.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 66 — Mrs. Doubtfire
+
+**Accept:** Mrs. Doubtfire; Mrs Doubtfire; Madame Doubtfire.
+**Hint:** A father creates an elaborate disguise to spend more time with his children.
+**Source page:** https://tenor.com/view/bye-wave-window-goodbye-hi-gif-17372773
+**Direct GIF:** https://media1.tenor.com/m/bWSzRQOsBsMAAAAC/bye-wave.gif
+**Local filename:** `assets/gifs/q66.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 67 — The Mask
+
+**Accept:** The Mask; Mask.
+**Hint:** An ordinary bank worker finds an object that unleashes an extraordinary personality.
+**Source page:** https://tenor.com/view/adrian-the-mask-jim-carrey-the-mask-feeglesnort-awooga-gif-14993310582484859943
+**Direct GIF:** https://media1.tenor.com/m/0BLwiWwdfCcAAAAC/adrian-the-mask.gif
+**Local filename:** `assets/gifs/q67.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Cartoon romantic reaction and dim nightclub lighting; check audience and contrast.
+
+### 68 — Dumb and Dumber
+
+**Accept:** Dumb and Dumber; Dumb & Dumber.
+**Hint:** Two well-meaning friends take a very misguided road trip.
+**Source page:** https://tenor.com/view/jim-carrey-dumb-and-dumber-triple-stamp-cant-hear-you-gif-8584354236219069503
+**Direct GIF:** https://media1.tenor.com/m/dyHAsiv1FD8AAAAC/jim-carrey-dumb-and-dumber.gif
+**Local filename:** `assets/gifs/q68.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Ordinary non-title dialogue caption in a car; no title footer.
+
+### 69 — The Big Lebowski
+
+**Accept:** The Big Lebowski; Big Lebowski.
+**Hint:** A mistaken identity disrupts an easygoing bowler’s life.
+**Source page:** https://tenor.com/view/biket-gif-19438610
+**Direct GIF:** https://media1.tenor.com/m/mYlCcA1LLrMAAAAC/biket.gif
+**Local filename:** `assets/gifs/q69.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 70 — Austin Powers
+
+**Accept:** Austin Powers.
+**Hint:** A swinging secret agent finds himself in a different decade.
+**Source page:** https://tenor.com/view/austin-powers-yeah-baby-groovy-groovy-baby-gif-2902704999065554790
+**Direct GIF:** https://media1.tenor.com/m/KEh60UUNj2YAAAAC/austin-powers-yeah-baby.gif
+**Local filename:** `assets/gifs/q70.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Catchphrase captions do not name the source.
+
+### 71 — The Dark Knight
+
+**Accept:** The Dark Knight; Dark Knight; Batman; Batman The Dark Knight.
+**Hint:** A masked protector faces an unpredictable criminal in a troubled city.
+**Source page:** https://tenor.com/view/joker-the-dark-knight-gif-26146305
+**Direct GIF:** https://media1.tenor.com/m/HS3sRZa6RAQAAAAC/joker-the-dark-knight.gif
+**Local filename:** `assets/gifs/q71.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 72 — Superman
+
+**Accept:** Superman.
+**Hint:** A visitor from another planet works as a mild-mannered reporter.
+**Source page:** https://tenor.com/view/wink-christopher-reeves-superman-smile-gif-21687896
+**Direct GIF:** https://media1.tenor.com/m/NPByF34Re60AAAAC/wink-christopher.gif
+**Local filename:** `assets/gifs/q72.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 73 — Spider-Man
+
+**Accept:** Spider-Man; Spiderman; Spider Man.
+**Hint:** A young New Yorker discovers that unusual powers bring serious responsibilities.
+**Source page:** https://tenor.com/view/adios-goodbye-salute-spider-man-gif-27258187
+**Direct GIF:** https://media1.tenor.com/m/RVyKVVmrpbkAAAAC/adios-goodbye.gif
+**Local filename:** `assets/gifs/q73.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 74 — Iron Man
+
+**Accept:** Iron Man; Ironman.
+**Hint:** A brilliant engineer builds a powered suit and changes his priorities.
+**Source page:** https://tenor.com/view/iron-man-tony-stark-robert-downey-jr-marvel-superhero-gif-16430080
+**Direct GIF:** https://media1.tenor.com/m/McY9R4_xYOIAAAAC/iron-man-tony-stark.gif
+**Local filename:** `assets/gifs/q74.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 75 — Terminator
+
+**Accept:** Terminator; The Terminator; Terminator 2; Terminator 2 Judgment Day; Terminator 2: Judgment Day.
+**Hint:** A machine from the future becomes central to the fate of humanity.
+**Source page:** https://tenor.com/view/terminator-sunglasses-shades-t800-arnold-schwarzenegger-gif-27448475
+**Direct GIF:** https://media1.tenor.com/m/fCr2RtR8H3QAAAAC/terminator-sunglasses.gif
+**Local filename:** `assets/gifs/q75.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 76 — Black Panther
+
+**Accept:** Black Panther; Black Panther Wakanda Forever; Black Panther: Wakanda Forever.
+**Hint:** A royal successor must protect a hidden nation and its extraordinary resources.
+**Source page:** https://tenor.com/view/black-panther-shuri-mask-black-panther-mask-reveal-gif-27123591
+**Direct GIF:** https://media1.tenor.com/m/K7fnWw6TTrMAAAAC/black-panther-shuri.gif
+**Local filename:** `assets/gifs/q76.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Dim suit-reveal scene. Accept the Black Panther franchise; this is Shuri from Wakanda Forever.
+
+### 77 — Guardians of the Galaxy
+
+**Accept:** Guardians of the Galaxy; Guardians of the Galaxy Vol. 2; Guardians of the Galaxy Vol. 3; Les Gardiens de la Galaxie.
+**Hint:** A mismatched group of outsiders becomes an unlikely spacefaring team.
+**Source page:** https://tenor.com/view/star-lord-who-chris-pratt-gotg-guardians-of-the-galaxy-gif-16781344
+**Direct GIF:** https://media1.tenor.com/m/IHKuRHIfSoIAAAAC/star-lord-who.gif
+**Local filename:** `assets/gifs/q77.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Dialogue names Star-Lord, not the source title. Require the film franchise.
+
+### 78 — Inception
+
+**Accept:** Inception.
+**Hint:** A specialist enters other people’s dreams to carry out a difficult assignment.
+**Source page:** https://tenor.com/view/spinning-top-inception-movie-gif-12483894
+**Direct GIF:** https://media1.tenor.com/m/kiN0jiuNxG0AAAAC/spinning-top.gif
+**Local filename:** `assets/gifs/q78.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Short four-frame top-spin loop with subtle motion.
+
+### 79 — Interstellar
+
+**Accept:** Interstellar.
+**Hint:** A pilot leaves his family to search for a future beyond Earth.
+**Source page:** https://tenor.com/view/sad-gif-14255166451895968330
+**Direct GIF:** https://media1.tenor.com/m/xdSGXGNTIkoAAAAC/sad.gif
+**Local filename:** `assets/gifs/q79.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Emotional crying scene with a gradual lighting change; confirm audience comfort.
+
+### 80 — Dune
+
+**Accept:** Dune; Dune Part Two; Dune: Part Two.
+**Hint:** A young heir’s fate becomes tied to a desert planet and its precious resource.
+**Source page:** https://tenor.com/view/dune-dune2021-atreides-paul-atreides-ceremony-gif-27351256
+**Direct GIF:** https://media1.tenor.com/m/HBA2YyXSuC8AAAAC/dune-dune2021.gif
+**Local filename:** `assets/gifs/q80.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 81 — Barbie
+
+**Accept:** Barbie.
+**Hint:** A resident of an impossibly perfect world journeys into the real one.
+**Source page:** https://tenor.com/view/barbie-smile-margot-robbie-happy-giggle-gif-3070384114400662334
+**Direct GIF:** https://media1.tenor.com/m/KpwyFZ7akz4AAAAC/barbie-smile.gif
+**Local filename:** `assets/gifs/q81.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 82 — Oppenheimer
+
+**Accept:** Oppenheimer.
+**Hint:** A physicist leads a wartime scientific project with immense consequences.
+**Source page:** https://tenor.com/view/oppenheimer-cillian-murphy-barbenheimer-barbie-oppenheimer-movie-gif-14455380668331281856
+**Direct GIF:** https://media1.tenor.com/m/yJvUIUTvTcAAAAAC/oppenheimer-cillian-murphy.gif
+**Local filename:** `assets/gifs/q82.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 83 — The Hunger Games
+
+**Accept:** The Hunger Games; Hunger Games.
+**Hint:** A young volunteer represents her district in a brutal televised competition.
+**Source page:** https://tenor.com/view/katniss-everdeen-peeta-mellark-effie-salute-the-hunger-games-gif-5228553
+**Direct GIF:** https://media1.tenor.com/m/RpWbfxbL2H4AAAAC/katniss-everdeen-peeta-mellark.gif
+**Local filename:** `assets/gifs/q83.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 84 — Twilight
+
+**Accept:** Twilight; The Twilight Saga.
+**Hint:** A newcomer to a rainy town falls for a student with an unusual secret.
+**Source page:** https://tenor.com/view/edward-twilight-edward-cullen-shades-on-handsome-gif-17095042
+**Direct GIF:** https://media1.tenor.com/m/J63JWqFKgwQAAAAC/edward-twilight.gif
+**Local filename:** `assets/gifs/q84.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 85 — The Mummy
+
+**Accept:** The Mummy; Mummy.
+**Hint:** An adventurous expedition awakens an ancient menace in Egypt.
+**Source page:** https://tenor.com/view/the-mummy-salute-farewell-goodbye-brendan-fraser-gif-11222486439664385263
+**Direct GIF:** https://media1.tenor.com/m/m75H9STVfO8AAAAC/the-mummy-salute.gif
+**Local filename:** `assets/gifs/q85.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Brief flask drinking; check audience suitability.
+
+### 86 — Jumanji
+
+**Accept:** Jumanji.
+**Hint:** A mysterious board game brings its dangers into the players’ world.
+**Source page:** https://tenor.com/view/robinwilliams-jumanji-gif-19396211
+**Direct GIF:** https://media1.tenor.com/m/66IaCkdPPeYAAAAC/robinwilliams-jumanji.gif
+**Local filename:** `assets/gifs/q86.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 87 — Paddington
+
+**Accept:** Paddington; Paddington 2; Paddington in Peru.
+**Hint:** A polite bear from Peru finds a home with a family in London.
+**Source page:** https://tenor.com/view/brushing-teeth-cleaning-ears-massage-electric-toothbrush-nose-trim-gif-10433095
+**Direct GIF:** https://media1.tenor.com/m/faXZgtnEC-QAAAAC/brushing-teeth-cleaning-ears.gif
+**Local filename:** `assets/gifs/q87.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 88 — The Grand Budapest Hotel
+
+**Accept:** The Grand Budapest Hotel; Grand Budapest Hotel.
+**Hint:** A devoted concierge and a young lobby boy become caught in an elaborate mystery.
+**Source page:** https://tenor.com/view/grand-budapest-gif-25145777
+**Direct GIF:** https://media1.tenor.com/m/hqT-jeTSw_cAAAAC/grand-budapest.gif
+**Local filename:** `assets/gifs/q88.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 89 — La La Land
+
+**Accept:** La La Land; LaLaLand.
+**Hint:** An aspiring actress and a jazz musician pursue their dreams in Los Angeles.
+**Source page:** https://tenor.com/view/lalaland-emmastone-ryangosling-gif-12195589846912201947
+**Direct GIF:** https://media1.tenor.com/m/qT9wWcuP9NsAAAAC/lalaland-emmastone.gif
+**Local filename:** `assets/gifs/q89.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Dusk dance scene: check projector contrast.
+
+### 90 — Beetlejuice
+
+**Accept:** Beetlejuice; Beetlejuice Beetlejuice.
+**Hint:** A recently deceased couple seeks help from an unpredictable supernatural troublemaker.
+**Source page:** https://tenor.com/view/beetlejuice-smile-gif-6051362
+**Direct GIF:** https://media1.tenor.com/m/mMbwLijq_j8AAAAC/beetlejuice-smile.gif
+**Local filename:** `assets/gifs/q90.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Blue lightning-style lighting changes; confirm motion comfort.
+
+### 91 — Seinfeld
+
+**Accept:** Seinfeld.
+**Hint:** Four New Yorkers turn everyday inconveniences into elaborate arguments.
+**Source page:** https://tenor.com/view/dance-gif-20488097
+**Direct GIF:** https://media1.tenor.com/m/YxUI4feWTbAAAAAC/dance.gif
+**Local filename:** `assets/gifs/q91.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Large download near 8 MiB; allow time to load on the venue network.
+
+### 92 — Parks and Recreation
+
+**Accept:** Parks and Recreation; Parks & Recreation; Parks and Rec; Parks & Rec.
+**Hint:** An enthusiastic public servant works with a very unusual municipal department.
+**Source page:** https://tenor.com/view/parks-and-rec-ron-swanson-nick-offerman-dance-gif-4586054
+**Direct GIF:** https://media1.tenor.com/m/rtX72gAVC80AAAAC/parks-and-rec-ron-swanson.gif
+**Local filename:** `assets/gifs/q92.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 93 — The Big Bang Theory
+
+**Accept:** The Big Bang Theory; Big Bang Theory.
+**Hint:** Science-minded roommates discover that social life has its own puzzles.
+**Source page:** https://tenor.com/view/sheldon-cooper-sheldon-the-big-bang-theory-big-bang-theory-sheldon-cute-gif-25643545
+**Direct GIF:** https://media1.tenor.com/m/SfKesd7KUDEAAAAC/sheldon-cooper-sheldon.gif
+**Local filename:** `assets/gifs/q93.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 94 — Modern Family
+
+**Accept:** Modern Family.
+**Hint:** An extended family shares its misunderstandings with a documentary crew.
+**Source page:** https://tenor.com/view/phil-dunphy-modern-family-power-walking-gif-5555775459588829994
+**Direct GIF:** https://media1.tenor.com/m/TRoUWECf8yoAAAAC/phil-dunphy-modern-family.gif
+**Local filename:** `assets/gifs/q94.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 95 — Schitt’s Creek
+
+**Accept:** Schitt’s Creek; Schitts Creek; Schitt's Creek.
+**Hint:** A wealthy family loses its fortune and starts over in a small town.
+**Source page:** https://tenor.com/view/david-rose-gif-11938825909323411882
+**Direct GIF:** https://media1.tenor.com/m/pa866PBzsaoAAAAC/david-rose.gif
+**Local filename:** `assets/gifs/q95.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Soft indoor lighting and a large download; check contrast and loading time. No source-title watermark.
+
+### 96 — Ted Lasso
+
+**Accept:** Ted Lasso.
+**Hint:** An American coach takes an unexpected job with an English football club.
+**Source page:** https://tenor.com/view/ted-lasso-afc-richmond-believe-gif-22969950
+**Direct GIF:** https://media1.tenor.com/m/FG8_Hwzk5-0AAAAC/ted-lasso-afc-richmond.gif
+**Local filename:** `assets/gifs/q96.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. The in-scene BELIEVE sign is a clue, not the series title.
+
+### 97 — Doctor Who
+
+**Accept:** Doctor Who.
+**Hint:** A traveller explores time and space in a box that is bigger inside.
+**Source page:** https://tenor.com/view/doctor-who-david-tennant-hello-wave-hand-gif-7647647129121427466
+**Direct GIF:** https://media1.tenor.com/m/aiHmi4LRkAoAAAAC/doctor-who-david-tennant.gif
+**Local filename:** `assets/gifs/q97.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Ordinary Hello caption and non-title creator attribution.
+
+### 98 — Sherlock
+
+**Accept:** Sherlock; Sherlock BBC; BBC Sherlock.
+**Hint:** A consulting detective and his flatmate solve mysteries in modern London.
+**Source page:** https://tenor.com/view/benedict-cumberbatch-sherlock-sherlock-holmes-handsome-earthquake-gif-16660298
+**Direct GIF:** https://media1.tenor.com/m/bbJ-SGf4E-gAAAAC/benedict-cumberbatch-sherlock.gif
+**Local filename:** `assets/gifs/q98.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. A pistol is visible without injury or graphic action; ordinary dialogue does not name the series.
+
+### 99 — The IT Crowd
+
+**Accept:** The IT Crowd; IT Crowd.
+**Hint:** A tiny technical-support department has some very eccentric staff.
+**Source page:** https://tenor.com/view/it-crowd-richard-ayoade-maurice-moss-smirk-smiling-gif-25094579
+**Direct GIF:** https://media1.tenor.com/m/ublilMifXycAAAAC/it-crowd-richard-ayoade.gif
+**Local filename:** `assets/gifs/q99.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
+
+### 100 — SpongeBob SquarePants
+
+**Accept:** SpongeBob SquarePants; SpongeBob; Sponge Bob; Bob l’éponge.
+**Hint:** An optimistic sea dweller works in a fast-food restaurant and lives in a pineapple.
+**Source page:** https://tenor.com/view/myspong-gif-5272555182446327000
+**Direct GIF:** https://media1.tenor.com/m/SSvhANRbtNgAAAAC/myspong.gif
+**Local filename:** `assets/gifs/q100.gif`
+**URL evidence:** observed-source-image-link.
+**Review:** Full frame sequence screened; no source-title caption or watermark found. Confirm suitability on the venue display.
 

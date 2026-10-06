@@ -1,10 +1,10 @@
 # The GIF Break
 
-A simple static film/TV quiz for a one-hour shared-screen activity: 40 questions in four rounds, a manual timer, hidden answers, reversible team scoring, saved games, a printable answer sheet and a host review page. q30 is an announced video-game wildcard. No framework, account, backend, analytics or deployed build step is required.
+A simple static film/TV quiz for a shared-screen activity: 100 questions in ten rounds, an optional manual timer, hidden answers, reversible team scoring, saved games, a printable answer sheet and a host review page. q30 is an announced video-game wildcard. No framework, account, backend, analytics or deployed build step is required.
 
 ## Current status
 
-On 6 October 2026, all 40 final remote GIFs passed real GETs, full-frame decoding and actual Chrome playback over a complete loop. Every final frame sequence was screened for source-title spoilers and unsuitable content. Eight selections were replaced. Gameplay tests pass at both the domain root and `/repository-name/`.
+On 6 October 2026, all 100 final remote GIFs passed real GETs, full-frame decoding and actual Chrome playback over a complete loop. Every final frame sequence was screened for source-title spoilers and unsuitable content. The original 40 questions retain their order and answers; 60 new selections were added after rejecting title-spoiling and distracting candidates. Gameplay tests pass at both the domain root and `/repository-name/`.
 
 **No third-party GIFs are bundled.** The site currently needs internet access. No broken URLs remain in the dated checks, but host review on the venue network/display is still required. q03, q08, q31, q33 and q34 have widths below 400 px; q33 is particularly small. See [the validation report](evidence/VALIDATION.md) for exact scope, further cautions and evidence. No host approvals or redistribution permissions have been fabricated.
 
@@ -38,7 +38,7 @@ python3 scripts/media.py --download --rights-reviewed --id q01
 python3 scripts/media.py
 ```
 
-The standard-library script requires multiple frames, validates GIF structure and LZW pixel counts, rejects HTML/stills/truncation, and writes `data/local-media.js` and `data/media-report.json`. Exit 0 means all 40 local animations validate; exit 1 means missing/invalid local files. Neither establishes visual approval or permission. With this delivery, 0 local files is expected. Valid local files are preferred; a missing mapped file falls back to its remote URL. Empty maps produce no nonexistent local-GIF requests.
+The standard-library script requires multiple frames, validates GIF structure and LZW pixel counts, rejects HTML/stills/truncation, and writes `data/local-media.js` and `data/media-report.json`. Exit 0 means all 100 local animations validate; exit 1 means missing/invalid local files. Neither establishes visual approval or permission. With this delivery, 0 local files is expected. Valid local files are preferred; a missing mapped file falls back to its remote URL. Empty maps produce no nonexistent local-GIF requests.
 
 ## GitHub Pages
 
@@ -55,12 +55,12 @@ Answers, source links and the host pages can be inspected by anyone who can acce
 - `index.html`, `styles.css`, `app.js`: game; vanilla HTML/CSS/JavaScript.
 - `review.html`, `review.js`: host preflight, private by convention, with spoilers.
 - `data/questions.json`: canonical dataset; q01–q40 and round order remain stable.
-- `data/questions.js`, `ANSWER_KEY.md`: regenerate after JSON changes with `python3 scripts/build_data.py`.
+- `data/questions.js`, `ANSWER_KEY.md`, `answer-sheet.html`: regenerate after JSON changes with `python3 scripts/build_data.py`.
 - `data/local-media.js`, `data/media-report.json`: local validation map/report.
-- `HOST_GUIDE.md`: rules and separate 60-minute running order.
-- `answer-sheet.html`: printable sheet without answers.
+- `HOST_GUIDE.md`: rules and flexible pacing for the ten rounds.
+- `answer-sheet.html`: three A4 pages with 100 spaces and no answers.
 - `evidence/`: dated validation reports and fixture-interface screenshots.
-- `CODEX_PROMPT.md`: original task specification; its initial media-status paragraph describes the starter, not the current delivery.
+- `CODEX_PROMPT.md`: original task specification; its initial media-status paragraph describes the starter, not the current delivery. Its 40-question/one-hour format was superseded by the owner’s request for 100 questions at flexible pace.
 
 ## Verification
 
@@ -91,4 +91,4 @@ python3 scripts/check_remote.py
 NODE_PATH=/tmp/gif-break-test-tools/node_modules node tests/media_browser.cjs
 ```
 
-The GET checker stores temporary inspection binaries outside the site and writes `evidence/remote-media-report.json`. Optional Pillow adds independent decoding of every frame; structural/LZW checking always runs. The browser suite uses actual remote GIFs and writes `evidence/browser-media-results.json`. Re-running automated checks never grants visual/venue approval; inspect changed media yourself. Older Python browser harnesses remain as legacy alternatives; the current report comes from the Node suites.
+The GET checker stores temporary inspection binaries outside the site and writes `evidence/remote-media-report.json`. Optional Pillow adds independent decoding of every frame; structural/LZW checking always runs. Set `SITE_URL=https://florincor.github.io/GuessTheGif/` on the browser command to test the published site. The browser suite uses actual remote GIFs and writes `evidence/browser-media-results.json`. Re-running automated checks never grants visual/venue approval; inspect changed media yourself. Older Python browser harnesses remain as legacy alternatives; the current report comes from the Node suites.

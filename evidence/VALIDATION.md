@@ -1,67 +1,55 @@
 # Validation record — 6 October 2026
 
-The final static quiz has 40 working remote animations, four rounds and unchanged q01–q40 order. All 40 source pages were read, every GIF was fetched with a real HTTPS GET, and every image frame passed structural/LZW validation and Pillow decoding. All 40 then loaded and showed changing pixels in Chrome at an actual HTTP `/repository-name/` path, observed for at least one complete decoded loop. No JavaScript page errors occurred.
+The quiz now contains 100 actual animated GIF selections in ten rounds of ten. The original q01–q40 entries and order are unchanged; q41–q100 add 60 new sources. The game remains vanilla HTML/CSS/JavaScript with relative URLs, `.nojekyll` and no deployed build step. Pacing is flexible and the manually started timer is optional.
 
-The binaries were fetched into temporary inspection folders outside this project. **No third-party GIF files are bundled, and redistribution permission has not been established.** Remote availability is a dated result, not a guarantee for the venue network or future provider changes.
+All 100 final source pages were read, all 100 media URLs returned valid animations in real HTTPS GETs, and every frame passed structural/LZW validation and Pillow decoding. All 100 then loaded and showed changing pixels in Chrome at an actual HTTP `/repository-name/` path for at least a complete decoded loop, with no JavaScript page errors. Binary hashes in the audit identify the screened files; hashes for the original 40 still match their earlier screening record.
 
-## Content and replacements
+Inspection binaries and frame sheets stay in temporary folders outside the project. **No third-party GIFs are bundled, and redistribution rights have not been established.** Availability is a dated check; the host must still test the venue network and display.
 
-Every final frame sequence was visually screened using ordered contact sheets; complete-loop playback was also observed in the browser. No captions or watermarks spelling out a source title were found in the final selections. Ordinary dialogue remains where it does not name the answer. No explicit sexual content, graphic violence or heavy profanity was found in these selected clips. These observations do not replace the host's audience and display judgement.
+## Content and curation
 
-Eight selections were improved, retaining the same answers:
+Every final composited frame sequence was screened in order. No answer-title captions or watermarks were found in the final selections. Ordinary dialogue, character names that differ from the source title, and non-title creator/network attribution remain. No explicit sexual content, graphic violence or heavy profanity was found in these clips. This is content screening of particular GIFs, separate from venue/audience approval.
 
-- q05: replaced an unrelated meme caption with Kevin's uncaptioned scream.
-- q09: replaced neon text/explosion edits with a plain dialogue scene.
-- q12: replaced a narrow crop with a wider Woody/Buzz scene.
-- q13: replaced a thumbnail with the larger individual source GIF.
-- q20: replaced a harsh transition with a calmer kitchen scene.
-- q21: replaced a dark six-frame clip with a longer recognizable cave scene.
-- q28: replaced a face-swapped upload; rejected another candidate whose watermark revealed the title.
-- q34: replaced the 31.8 MB film meme with a 2.1 MB scene from the television series.
+For the expansion, title-spoiling Dumb and Dumber and Beetlejuice captions were rejected. Several Schitt’s Creek candidates were rejected for title watermarks, including a small watermark appearing later in a loop. The final clip shows David in a polka-dot sweater and a towel. Other new selections were improved to avoid distracting colours, unrelated captions and poor crops. This project did not strip watermarks or manufacture GIF hashes.
 
-q06's actual GIF is 403 × 200, rather than the small size suggested by the original metadata. q16 has no film-title overlay; its Netflix attribution remains. q36's full 24-frame desert dialogue clip contains none of the drugs, weapons or graphic content that motivated the initial caution.
+The earlier eight replacements remain: q05, q09, q12, q13, q20, q21, q28 and q34. Their reasons and initial audit are preserved in Git history and `initial-media-report.json`; their current clips and screening notes remain in `content-review.json`. In particular q28's face-swapped candidate and q34's 31.8 MB film meme were replaced before the first publication.
 
-## Gameplay and deployment checks
+## Gameplay and print checks
 
-`python3 scripts/build_data.py`, `node tests/validate.cjs`, Python GIF-parser tests and JavaScript syntax checks pass. The current Node/Playwright suite uses real HTTP and real browser localStorage, with synthetic GIFs only for deterministic gameplay/error tests. It covers:
+The builder, dataset/path/alias validator, eight Python GIF-parser tests and JavaScript syntax checks pass. The Node/Playwright gameplay suite uses real HTTP/localStorage and synthetic media for deterministic tests, separately from the actual-provider playback suite. Its 14 passing groups cover:
 
-- Setup validation, safe team names, all 40 positions, hints, reveals and exact aliases.
-- Timer start/pause/resume/expiry/reset, loading failures/timeouts, concealed motion, reveal stopping and a deterministically dispatched tab-visibility event.
-- Reversible awards, revisits, void/restore, wildcard handling, tied final rankings and downloaded score exports.
-- Persistence, malformed state, unavailable storage, reduced-motion opt-in and keyboard/native-button behavior.
-- Actual full-screen entry/exit and a simulated denied-permission fallback.
-- Root and nested repository URLs; an empty local map and missing-local-to-remote fallback.
-- Four-worker host preflight, individual previews, approval persistence/invalidation and review exports. Load checks never grant visual approval.
-- 1366 × 768 primary-control fit, 390 px layouts without horizontal overflow, and the answer-free printable sheet.
+- All 100 navigation positions, exact reveals/aliases and TV prompting in both TV rounds; the q30 video-game wildcard.
+- Setup/team validation, safe team-name rendering and answer-free headings, alt text and source links before reveal.
+- Manual timer start/pause/resume/expiry/reset, media failures/timeouts, hidden motion, reveal stopping and a deterministic tab-visibility event.
+- Reversible scoring, revisits, void/restore, ties, final rankings and downloaded score exports.
+- Existing 40-question saved progress continuing into q41; q100 awards, void/restore, revisits, saved resume and final totals.
+- Corrupt or denied storage, reduced-motion opt-in, all shortcuts, native focused-button Space, typing and full-screen entry/exit/denial.
+- Root and nested paths, empty local map, local-to-remote fallback, four-worker preflight, previews, saved approvals/invalidation and review export. Load checks grant no approvals.
+- 1366 × 768 primary controls and 390 px setup/game layouts without horizontal overflow.
 
-The four PNG screenshots show the real interface with **synthetic test media**, not film GIFs. Legacy Python browser harnesses are retained; the current verification used `tests/ui_smoke.cjs`, not their older storage shim. Real-provider playback is recorded separately by `tests/media_browser.cjs` without any media interception.
+The generated answer sheet has exactly 100 answer spaces and no answers. Chrome printed it to a temporary PDF: Poppler confirmed three A4 pages, and all pages were visually inspected. White print margins avoid the site's dark-screen theme using extra ink. The PDF is a private QA intermediate, not a bundled site file.
 
-## Remaining checks and unresolved items
+The four interface PNGs use synthetic test media. Legacy Python browser harnesses were updated for the current dataset, syntax-checked and retained, but were not used for these browser results.
 
-**Broken/unavailable media IDs: none in this run.** All final files are below 8 MiB; the largest is q29 at 6.03 MiB.
+## Unresolved venue checks
 
-Projector quality remains unresolved for q03 (374 px), q08 (361 px), q31 (353 px), q33 (245 px) and q34 (374 px). q33 is the weakest-resolution clip: replace it with another permitted clip from the same series or void it if unreadable. q06, q19, q23 and q24 are also below the preferred 480 px width. q21 needs a contrast check because the cave is dim. q01/q15/q24 contain bright scene elements; q24/q37 include drinking and q33 includes mild hostile dialogue. Check their suitability on the actual display with the intended audience.
+**Broken/unavailable media IDs: none in the final dated checks.** All GIFs are below 8 MiB; the largest is q91 at 7.80 MiB. All 60 added clips are at least 480 px wide. q87, q91 and q95 are larger downloads: allow time for loading.
 
-**Host venue approvals: 0.** No host approval boxes were prefilled. Use `review.html` privately to check actual loading, watch each loop, approve suitable clips and export the record. Physical projector contrast, OS tab switching and the venue network have not been tested here.
+The original resolution cautions remain: q03 (374 px), q08 (361 px), q31 (353 px), q33 (245 px) and q34 (374 px) need projector checks; q33 is the weakest and should be voided if unreadable. q06/q19/q23/q24 also fall below the preferred 480 px width. These were preserved with the original 40 entries.
 
-The local-media scanner correctly reports **0/40 local GIFs** and exits 1 because no permitted local copies were supplied. The empty map prevents 40 requests for nonexistent local files. This is a remote-media edition and requires internet access.
+Check contrast for q21's cave and the darker new scenes q47/q50/q67/q76/q89/q95. q01/q15/q24 and new q79/q90 have bright or changing lighting. q24/q37/q85 include drinking; q33 has mild hostile dialogue; q67 has a cartoon romantic reaction; q79 has emotional crying; q98 shows a pistol without injury or graphic action. Audience/display suitability is a host decision, documented per question.
 
-Initial preparation stopped before publication. Relative URLs, `.nojekyll` and nested-path checks passed. The owner subsequently explicitly approved the public repository and GitHub Pages deployment; see the deployment record below.
+**Host venue approvals: 0.** No approval boxes are prefilled. Watch every loop on the actual network/display using `review.html`, approve genuinely suitable clips and export the record. Physical projector contrast and OS tab switching remain untested here.
 
-## Evidence
+The local scanner reports **0/100 local animations** and correctly exits 1 because no permitted local files were supplied. The empty map avoids nonexistent local-file requests. This remote-media edition requires internet access.
 
-- `initial-media-report.json`: original URL/binary audit before replacements.
-- `remote-media-report.json`: final GETs, dimensions, sizes, frame counts and SHA-256 hashes.
-- `content-review.json`: final-frame screening, cautions and explicit separation from venue/rights approval.
-- `browser-media-results.json`: 40 actual browser animations, timing and changing-pixel hashes.
-- `ui-test-results.json`: deterministic gameplay and failure-test scope.
-- `../data/media-report.json`: local-files-only report; it must not be confused with remote validation.
+## Evidence and deployment
 
+- `remote-media-report.json`: 100 real GET checks, decoded dimensions/frames/sizes and SHA-256 hashes.
+- `content-review.json`: 100 screened sequences, curation and audience cautions; no venue or rights approval.
+- `browser-media-results.json`: 100 actual browser animations at the nested local HTTP path.
+- `ui-test-results.json`: 14 deterministic gameplay/failure test groups with synthetic media.
+- `print-test-results.json`: three-page A4 print verification.
+- `../data/media-report.json`: local files only, 0/100; separate from remote validation.
 
-## Public deployment — 6 October 2026
-
-The owner explicitly approved public publication. [FlorinCor/GuessTheGif](https://github.com/FlorinCor/GuessTheGif) is public; [the live game](https://florincor.github.io/GuessTheGif/) deploys from `main` at `/(root)`, with HTTPS enforced. The initial GitHub Pages [build and deployment](https://github.com/FlorinCor/GuessTheGif/actions/runs/37479848690) succeeded.
-
-Live Chrome checks used real provider media and real localStorage, without fixtures. All 40 GIFs showed changing pixels over at least one complete decoded loop on the actual public URL. The host preflight also loaded all 40; no content/venue approval boxes were granted. Homepage, relative JavaScript/CSS assets, host review and printable sheet returned HTTP 200. Timer start/pause, reveal, scoring, navigation, saved-game resume, 1366 × 768 control fit, 390 px layout and reduced-motion opt-in passed. The printable sheet has 40 spaces and no answers. No JavaScript page errors occurred.
-
-Exact live animation results and the five live gameplay/asset checks are under `liveGitHubPagesCheck` in `browser-media-results.json`; the original local-path check remains in that file. These live checks used a temporary adaptation of the existing browser suite for the HTTPS URL. The game code and media selections were unchanged by publication. The resolution/venue cautions and lack of bundled local GIFs still apply.
+The owner explicitly approved the public [FlorinCor/GuessTheGif repository](https://github.com/FlorinCor/GuessTheGif) and [GitHub Pages site](https://florincor.github.io/GuessTheGif/). Pages uses `main` at `/(root)` with HTTPS. The original 40-question deployment succeeded and was checked with live GIFs. The 100-question edition is prepared and locally validated; its public deployment and live verification are the remaining release steps.

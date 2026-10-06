@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Read the 40 public source/media pairs for validation, without bundling copies.
+"""Read the current public source/media pairs for validation, without bundling copies.
 
 GETs (not HEADs) are required: some providers return 404 for HEAD on working GIFs.
 Temporary media stays outside the static project, for private content inspection.

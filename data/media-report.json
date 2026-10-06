@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-06T13:44:07.636183+00:00",
+  "checkedAt": "2026-10-06T15:12:33.072617+00:00",
   "localAnimationsValidated": 0,
-  "total": 40,
+  "total": 100,
   "visualReviewStillRequired": true,
   "questions": [
     {
@@ -359,6 +359,546 @@
       "id": "q40",
       "sourceUrl": "https://tenor.com/view/baby-yoda-soup-sipping-cup-the-mandalorian-gif-15745714",
       "mediaUrl": "https://media1.tenor.com/m/mBLQ4i36j9YAAAAd/baby-yoda-soup.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q41",
+      "sourceUrl": "https://tenor.com/view/clicking-heels-the-wizard-of-oz-ruby-slippers-warner-bros-entertainment-warner-bros-pictures-gif-2486798180485000823",
+      "mediaUrl": "https://media1.tenor.com/m/IoLhxP_lbncAAAAC/clicking-heels-the-wizard-of-oz.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q42",
+      "sourceUrl": "https://tenor.com/view/singing-in-the-rain-don-lockwood-gene-kelly-dancing-dance-moves-gif-16582845",
+      "mediaUrl": "https://media1.tenor.com/m/21mp6HUq2q0AAAAC/singing-in-the-rain-don-lockwood.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q43",
+      "sourceUrl": "https://tenor.com/view/mary-poppins-1964-flying-julie-andrews-gif-13107220",
+      "mediaUrl": "https://media1.tenor.com/m/mf4EM0Is6PUAAAAC/mary-poppins-1964.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q44",
+      "sourceUrl": "https://tenor.com/view/gene-wilder-sarcastic-wonka-gif-5926299",
+      "mediaUrl": "https://media1.tenor.com/m/IgqwjFbyF70AAAAC/gene-wilder-sarcastic.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q45",
+      "sourceUrl": "https://tenor.com/view/happy-thanksgivingwith-music-the-sound-gif-27147071",
+      "mediaUrl": "https://media1.tenor.com/m/JsP5Jhz5NV8AAAAC/happy-thanksgivingwith.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q46",
+      "sourceUrl": "https://tenor.com/view/grease-handsome-brush-up-travolta-gif-14072815",
+      "mediaUrl": "https://media1.tenor.com/m/HxuS8-cyFFcAAAAC/grease-handsome.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q47",
+      "sourceUrl": "https://tenor.com/view/patrick-swayze-lifting-dirty-dancing-gif-13487268",
+      "mediaUrl": "https://media1.tenor.com/m/8yVz3eIYOvQAAAAC/patrick-swayze-lifting.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q48",
+      "sourceUrl": "https://tenor.com/view/the-breakfast-club-brian-johnson-anthony-michael-hall-cool-sunglasses-gif-4110995",
+      "mediaUrl": "https://media1.tenor.com/m/QWZAInP_zn4AAAAC/the-breakfast-club-brian-johnson.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q49",
+      "sourceUrl": "https://tenor.com/view/ferris-bueller-sarcasm-reaction-funny-smile-gif-16735801",
+      "mediaUrl": "https://media1.tenor.com/m/aYgAkSGYgScAAAAC/ferris-bueller-sarcasm.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q50",
+      "sourceUrl": "https://tenor.com/view/casablanca-humphrey-bogart-take-off-plane-jet-gif-15298534112591075914",
+      "mediaUrl": "https://media1.tenor.com/m/1E9PuGUv2koAAAAC/casablanca-humphrey-bogart.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q51",
+      "sourceUrl": "https://tenor.com/view/monsters-inc-monsters-inc-movie-movie-monsters-inc-mike-sully-sully-mike-gif-7916710858025051064",
+      "mediaUrl": "https://media1.tenor.com/m/bd3OlLIPo7gAAAAC/monsters-inc-monsters-inc-movie.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q52",
+      "sourceUrl": "https://tenor.com/view/up-movie-disney-no-carl-gif-15115720",
+      "mediaUrl": "https://media1.tenor.com/m/8fBfqQQPAKgAAAAC/up-movie.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q53",
+      "sourceUrl": "https://tenor.com/view/walle-gif-23393521",
+      "mediaUrl": "https://media1.tenor.com/m/Lf3dLerWVqUAAAAC/walle.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q54",
+      "sourceUrl": "https://tenor.com/view/inside-out-inside-out-joy-gif-3745459444657506147",
+      "mediaUrl": "https://media1.tenor.com/m/M_qLhUdxR2MAAAAC/inside-out-inside-out-joy.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q55",
+      "sourceUrl": "https://tenor.com/view/zootopia-nick-wilde-judy-hopps-laugh-laughing-gif-6135689749395944453",
+      "mediaUrl": "https://media1.tenor.com/m/VSZZUZzANAUAAAAC/zootopia-nick-wilde.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q56",
+      "sourceUrl": "https://tenor.com/view/maui-moana-disney-eyebrow-looking-gif-26071535",
+      "mediaUrl": "https://media1.tenor.com/m/BBY0Al0M7rcAAAAC/maui-moana.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q57",
+      "sourceUrl": "https://tenor.com/view/coco-miguel-annoyed-gif-15541240",
+      "mediaUrl": "https://media1.tenor.com/m/FJGofG8LR4gAAAAC/coco-miguel.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q58",
+      "sourceUrl": "https://tenor.com/view/encanto-mirabel-madrigal-stare-staring-stares-gif-24894379",
+      "mediaUrl": "https://media1.tenor.com/m/6Yh6ZMnx1WcAAAAC/encanto-mirabel-madrigal.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q59",
+      "sourceUrl": "https://tenor.com/view/toothless-smile-gif-7745071133527507162",
+      "mediaUrl": "https://media1.tenor.com/m/a3wFKSoKANoAAAAC/toothless-smile.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q60",
+      "sourceUrl": "https://tenor.com/view/lilo-stitch-like-this-gif-19020391",
+      "mediaUrl": "https://media1.tenor.com/m/yvX3fM7b40sAAAAC/lilo-stitch.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q61",
+      "sourceUrl": "https://tenor.com/view/princess-bride-bow-cary-elwes-gif-22918306",
+      "mediaUrl": "https://media1.tenor.com/m/s1w62ls6xlQAAAAC/princess-bride.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q62",
+      "sourceUrl": "https://tenor.com/view/meangirls-regina-george-rachel-mcadams-regina-regina-smiles-gif-22957837",
+      "mediaUrl": "https://media1.tenor.com/m/gLYmRkiEzMEAAAAC/meangirls-regina-george.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q63",
+      "sourceUrl": "https://tenor.com/view/legally-blonde-elle-woods-bruiser-woods-gemini-vegetarians-gif-8327346031541500226",
+      "mediaUrl": "https://media1.tenor.com/m/c5CtGHPKOUIAAAAC/legally-blonde-elle-woods.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q64",
+      "sourceUrl": "https://tenor.com/view/meryl-streep-emily-blunt-anne-hathaway-2006-the-devil-wears-prada-gif-14494472007498162645",
+      "mediaUrl": "https://media1.tenor.com/m/ySa1fu3FYdUAAAAC/meryl-streep-emily-blunt.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q65",
+      "sourceUrl": "https://tenor.com/view/school-of-rock-jack-black-dewey-finn-salute-gif-4762745",
+      "mediaUrl": "https://media1.tenor.com/m/pQKpuY8fWVgAAAAC/school-of-rock-jack-black.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q66",
+      "sourceUrl": "https://tenor.com/view/bye-wave-window-goodbye-hi-gif-17372773",
+      "mediaUrl": "https://media1.tenor.com/m/bWSzRQOsBsMAAAAC/bye-wave.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q67",
+      "sourceUrl": "https://tenor.com/view/adrian-the-mask-jim-carrey-the-mask-feeglesnort-awooga-gif-14993310582484859943",
+      "mediaUrl": "https://media1.tenor.com/m/0BLwiWwdfCcAAAAC/adrian-the-mask.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q68",
+      "sourceUrl": "https://tenor.com/view/jim-carrey-dumb-and-dumber-triple-stamp-cant-hear-you-gif-8584354236219069503",
+      "mediaUrl": "https://media1.tenor.com/m/dyHAsiv1FD8AAAAC/jim-carrey-dumb-and-dumber.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q69",
+      "sourceUrl": "https://tenor.com/view/biket-gif-19438610",
+      "mediaUrl": "https://media1.tenor.com/m/mYlCcA1LLrMAAAAC/biket.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q70",
+      "sourceUrl": "https://tenor.com/view/austin-powers-yeah-baby-groovy-groovy-baby-gif-2902704999065554790",
+      "mediaUrl": "https://media1.tenor.com/m/KEh60UUNj2YAAAAC/austin-powers-yeah-baby.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q71",
+      "sourceUrl": "https://tenor.com/view/joker-the-dark-knight-gif-26146305",
+      "mediaUrl": "https://media1.tenor.com/m/HS3sRZa6RAQAAAAC/joker-the-dark-knight.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q72",
+      "sourceUrl": "https://tenor.com/view/wink-christopher-reeves-superman-smile-gif-21687896",
+      "mediaUrl": "https://media1.tenor.com/m/NPByF34Re60AAAAC/wink-christopher.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q73",
+      "sourceUrl": "https://tenor.com/view/adios-goodbye-salute-spider-man-gif-27258187",
+      "mediaUrl": "https://media1.tenor.com/m/RVyKVVmrpbkAAAAC/adios-goodbye.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q74",
+      "sourceUrl": "https://tenor.com/view/iron-man-tony-stark-robert-downey-jr-marvel-superhero-gif-16430080",
+      "mediaUrl": "https://media1.tenor.com/m/McY9R4_xYOIAAAAC/iron-man-tony-stark.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q75",
+      "sourceUrl": "https://tenor.com/view/terminator-sunglasses-shades-t800-arnold-schwarzenegger-gif-27448475",
+      "mediaUrl": "https://media1.tenor.com/m/fCr2RtR8H3QAAAAC/terminator-sunglasses.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q76",
+      "sourceUrl": "https://tenor.com/view/black-panther-shuri-mask-black-panther-mask-reveal-gif-27123591",
+      "mediaUrl": "https://media1.tenor.com/m/K7fnWw6TTrMAAAAC/black-panther-shuri.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q77",
+      "sourceUrl": "https://tenor.com/view/star-lord-who-chris-pratt-gotg-guardians-of-the-galaxy-gif-16781344",
+      "mediaUrl": "https://media1.tenor.com/m/IHKuRHIfSoIAAAAC/star-lord-who.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q78",
+      "sourceUrl": "https://tenor.com/view/spinning-top-inception-movie-gif-12483894",
+      "mediaUrl": "https://media1.tenor.com/m/kiN0jiuNxG0AAAAC/spinning-top.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q79",
+      "sourceUrl": "https://tenor.com/view/sad-gif-14255166451895968330",
+      "mediaUrl": "https://media1.tenor.com/m/xdSGXGNTIkoAAAAC/sad.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q80",
+      "sourceUrl": "https://tenor.com/view/dune-dune2021-atreides-paul-atreides-ceremony-gif-27351256",
+      "mediaUrl": "https://media1.tenor.com/m/HBA2YyXSuC8AAAAC/dune-dune2021.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q81",
+      "sourceUrl": "https://tenor.com/view/barbie-smile-margot-robbie-happy-giggle-gif-3070384114400662334",
+      "mediaUrl": "https://media1.tenor.com/m/KpwyFZ7akz4AAAAC/barbie-smile.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q82",
+      "sourceUrl": "https://tenor.com/view/oppenheimer-cillian-murphy-barbenheimer-barbie-oppenheimer-movie-gif-14455380668331281856",
+      "mediaUrl": "https://media1.tenor.com/m/yJvUIUTvTcAAAAAC/oppenheimer-cillian-murphy.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q83",
+      "sourceUrl": "https://tenor.com/view/katniss-everdeen-peeta-mellark-effie-salute-the-hunger-games-gif-5228553",
+      "mediaUrl": "https://media1.tenor.com/m/RpWbfxbL2H4AAAAC/katniss-everdeen-peeta-mellark.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q84",
+      "sourceUrl": "https://tenor.com/view/edward-twilight-edward-cullen-shades-on-handsome-gif-17095042",
+      "mediaUrl": "https://media1.tenor.com/m/J63JWqFKgwQAAAAC/edward-twilight.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q85",
+      "sourceUrl": "https://tenor.com/view/the-mummy-salute-farewell-goodbye-brendan-fraser-gif-11222486439664385263",
+      "mediaUrl": "https://media1.tenor.com/m/m75H9STVfO8AAAAC/the-mummy-salute.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q86",
+      "sourceUrl": "https://tenor.com/view/robinwilliams-jumanji-gif-19396211",
+      "mediaUrl": "https://media1.tenor.com/m/66IaCkdPPeYAAAAC/robinwilliams-jumanji.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q87",
+      "sourceUrl": "https://tenor.com/view/brushing-teeth-cleaning-ears-massage-electric-toothbrush-nose-trim-gif-10433095",
+      "mediaUrl": "https://media1.tenor.com/m/faXZgtnEC-QAAAAC/brushing-teeth-cleaning-ears.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q88",
+      "sourceUrl": "https://tenor.com/view/grand-budapest-gif-25145777",
+      "mediaUrl": "https://media1.tenor.com/m/hqT-jeTSw_cAAAAC/grand-budapest.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q89",
+      "sourceUrl": "https://tenor.com/view/lalaland-emmastone-ryangosling-gif-12195589846912201947",
+      "mediaUrl": "https://media1.tenor.com/m/qT9wWcuP9NsAAAAC/lalaland-emmastone.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q90",
+      "sourceUrl": "https://tenor.com/view/beetlejuice-smile-gif-6051362",
+      "mediaUrl": "https://media1.tenor.com/m/mMbwLijq_j8AAAAC/beetlejuice-smile.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q91",
+      "sourceUrl": "https://tenor.com/view/dance-gif-20488097",
+      "mediaUrl": "https://media1.tenor.com/m/YxUI4feWTbAAAAAC/dance.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q92",
+      "sourceUrl": "https://tenor.com/view/parks-and-rec-ron-swanson-nick-offerman-dance-gif-4586054",
+      "mediaUrl": "https://media1.tenor.com/m/rtX72gAVC80AAAAC/parks-and-rec-ron-swanson.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q93",
+      "sourceUrl": "https://tenor.com/view/sheldon-cooper-sheldon-the-big-bang-theory-big-bang-theory-sheldon-cute-gif-25643545",
+      "mediaUrl": "https://media1.tenor.com/m/SfKesd7KUDEAAAAC/sheldon-cooper-sheldon.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q94",
+      "sourceUrl": "https://tenor.com/view/phil-dunphy-modern-family-power-walking-gif-5555775459588829994",
+      "mediaUrl": "https://media1.tenor.com/m/TRoUWECf8yoAAAAC/phil-dunphy-modern-family.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q95",
+      "sourceUrl": "https://tenor.com/view/david-rose-gif-11938825909323411882",
+      "mediaUrl": "https://media1.tenor.com/m/pa866PBzsaoAAAAC/david-rose.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q96",
+      "sourceUrl": "https://tenor.com/view/ted-lasso-afc-richmond-believe-gif-22969950",
+      "mediaUrl": "https://media1.tenor.com/m/FG8_Hwzk5-0AAAAC/ted-lasso-afc-richmond.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q97",
+      "sourceUrl": "https://tenor.com/view/doctor-who-david-tennant-hello-wave-hand-gif-7647647129121427466",
+      "mediaUrl": "https://media1.tenor.com/m/aiHmi4LRkAoAAAAC/doctor-who-david-tennant.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q98",
+      "sourceUrl": "https://tenor.com/view/benedict-cumberbatch-sherlock-sherlock-holmes-handsome-earthquake-gif-16660298",
+      "mediaUrl": "https://media1.tenor.com/m/bbJ-SGf4E-gAAAAC/benedict-cumberbatch-sherlock.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q99",
+      "sourceUrl": "https://tenor.com/view/it-crowd-richard-ayoade-maurice-moss-smirk-smiling-gif-25094579",
+      "mediaUrl": "https://media1.tenor.com/m/ublilMifXycAAAAC/it-crowd-richard-ayoade.gif",
+      "visualReviewRequired": true,
+      "rightsClearedByThisTool": false,
+      "status": "not-validated",
+      "error": "Local GIF missing"
+    },
+    {
+      "id": "q100",
+      "sourceUrl": "https://tenor.com/view/myspong-gif-5272555182446327000",
+      "mediaUrl": "https://media1.tenor.com/m/SSvhANRbtNgAAAAC/myspong.gif",
       "visualReviewRequired": true,
       "rightsClearedByThisTool": false,
       "status": "not-validated",

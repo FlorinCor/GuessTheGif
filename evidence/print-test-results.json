@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-10-06T15:14:07.884923+00:00",
+  "method": "Chrome prints current answer-sheet.html; Poppler page count and visual inspection of all three A4 pages",
+  "questionCount": 100,
+  "printedPages": 3,
+  "paper": "A4",
+  "answerSpaces": 100,
+  "containsAnswers": false,
+  "pageMargins": "white",
+  "pdfBundled": false
+}

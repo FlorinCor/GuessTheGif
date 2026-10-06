@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.part
+node_modules/
+gif-break-scores*.json
+gif-break-review*.json

@@ -1,0 +1,569 @@
+{
+  "reviewedOn": "2026-10-06",
+  "method": "Manual inspection of every final decoded frame in ordered contact sheets, plus actual browser playback over a complete loop",
+  "scope": "Selected GIFs only; separate from venue approval and redistribution permission",
+  "screened": 40,
+  "answerTitleSpoilersFound": 0,
+  "hostVenueApprovals": 0,
+  "replacedIds": [
+    "q05",
+    "q09",
+    "q12",
+    "q13",
+    "q20",
+    "q21",
+    "q28",
+    "q34"
+  ],
+  "questions": [
+    {
+      "id": "q01",
+      "mediaUrl": "https://media1.tenor.com/m/gp2VXShBDQ4AAAAd/neo-dodging-bullets.gif",
+      "sha256": "b7f605cf3b0c71b3cfc7664a0a0d254dad86867495ed6251133078dcb44cb2e0",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full frame sequence screened: action scene with brief bright areas. Confirm motion comfort on the venue display.",
+      "cautions": [
+        "Bright scene elements: confirm motion comfort"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q02",
+      "mediaUrl": "https://media1.tenor.com/m/GTpLWsrY6cMAAAAd/titanic-open-your-eyes.gif",
+      "sha256": "8f8644dd61aca3d1f86af7b5b1c501b26da33751897db2e38981c75a33c319f6",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened; no source-title caption found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q03",
+      "mediaUrl": "https://media1.tenor.com/m/pyj35djdFMEAAAAd/doc-brown-back-to-the-future.gif",
+      "sha256": "e9ee36358d035af0a3520cc1f0552aeca62fd8191a1198d7f002e721c19a0147",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "374 px wide: confirm projector legibility. Accept the franchise; exact installment is not established by source metadata.",
+      "cautions": [
+        "Low resolution: projector legibility remains a host check"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q04",
+      "mediaUrl": "https://media1.tenor.com/m/Ba6ybKvObY0AAAAd/jurassic-park-surprised.gif",
+      "sha256": "b0aa7a893cc1b577c636c7f37a809dd9d0612d8674f5f3170b9ae01d8618238f",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened; no source-title caption found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q05",
+      "mediaUrl": "https://media1.tenor.com/m/7g4PDIh2QuUAAAAC/home-alone-scream.gif",
+      "sha256": "38cab174a97d5052962dcaea3568d4ed129172dd1d4709274c413ff8370ccc91",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Replaced an unrelated meme caption with an uncaptioned scream scene.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q06",
+      "mediaUrl": "https://media1.tenor.com/m/m3WHzfC1IpkAAAAd/forrest-gump-wave.gif",
+      "sha256": "7c7aafbb0e74c28f9ff6e5cf5518e59e2c84b6c5afebdc06da37077df5a19798",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Actual GIF is 403 \u00d7 200, larger than the original metadata suggested. Confirm legibility on the projector.",
+      "cautions": [
+        "Below preferred 480 px width: confirm projector legibility"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q07",
+      "mediaUrl": "https://media1.tenor.com/m/TkUUnoTzjdoAAAAd/sorting-hat.gif",
+      "sha256": "df3edaa698388584e1e87e7cb1a96d51e64b4987f82a58a5513c3bb2a08cebbb",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened; no source-title caption found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q08",
+      "mediaUrl": "https://media1.tenor.com/m/XwP93b5gkh4AAAAd/jack-sparrow-running.gif",
+      "sha256": "36f1bb4220b4d4c7d21ecc272994822a05b4c43ecd3c91a07c06ae7a68158bd2",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "361 px wide: confirm projector legibility. Franchise answer; exact installment is not established.",
+      "cautions": [
+        "Low resolution: projector legibility remains a host check"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q09",
+      "mediaUrl": "https://media1.tenor.com/m/Rv-IfOOXPSIAAAAC/you-shall-not-pass-lotr.gif",
+      "sha256": "66de9d2915b57fd4bf092deb7eb346978239d9a8f6e30797d056f1e9b7f057e0",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Replaced animated neon lettering and explosion edits with a plain dialogue caption. The dialogue does not name the film.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q10",
+      "mediaUrl": "https://media1.tenor.com/m/qBfZ7ckNw1kAAAAd/star-wars-yoda.gif",
+      "sha256": "8ca5b055c6a687b6a6550c4386d9c7aff204a9a48d9ee0448510021fff45a264",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Dialogue caption, not the film title.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q11",
+      "mediaUrl": "https://media1.tenor.com/m/QHGcA9ApXQUAAAAd/shrek-donkey.gif",
+      "sha256": "a7dc58b618e4699d03175f1cf2423ae34c2432977e67e51e8dc624b58608a00e",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Dialogue caption about waffles.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q12",
+      "mediaUrl": "https://media1.tenor.com/m/GXVSae3o2goAAAAC/winking-at-each-other-buzz-lightyear.gif",
+      "sha256": "acf7ad475770305c578ec1218b99b8876c6026fadb88b3dcf6082b9bf3717275",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Replaced a narrow vertical crop with a 498 px-wide scene; no added text.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q13",
+      "mediaUrl": "https://media1.tenor.com/m/GhV5_jO-HugAAAAC/rafiki-simba.gif",
+      "sha256": "c38bf43640a546649ecf176795643e129530c2843acaf6be3b26866d100491be",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Replaced a 220 px thumbnail with the source-advertised 498 px GIF and an individual source page.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q14",
+      "mediaUrl": "https://media.giphy.com/media/3oxRmrZu7b9egmWODS/giphy.gif",
+      "sha256": "bf9203a4a51cda38658708ec982751998773f0f019d9456cd44ae7c86c0305c2",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Source channel tags both films. Accept Finding Nemo or Finding Dory; do not assert a specific installment.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q15",
+      "mediaUrl": "https://media1.tenor.com/m/fNY2IAdnFsQAAAAd/frozen-elsa.gif",
+      "sha256": "03dba5cc90cd03dd1e05cd9e4ac2a8e8071041155e854ca9e6414a51f106f875",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened: ordinary song-lyric caption does not name the film. Bright ice effects require a venue motion/contrast check.",
+      "cautions": [
+        "Bright scene elements: confirm motion comfort"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q16",
+      "mediaUrl": "https://media.giphy.com/media/J8DQdZISLZU0m6FT2u/giphy.gif",
+      "sha256": "d4e70a04f1f651b36d116a71b94c35b3407b414d84e33fb57eb39373c8f9f079",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened: three singers exchange skeptical looks; Netflix attribution does not name the film. No answer-title overlay found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q17",
+      "mediaUrl": "https://gifdb.com/images/high/edna-mode-enjoying-visits-ju8va9vlyn6w7klw.gif",
+      "sha256": "d2a63bd0afb0f305d093b98177ecf81f13b8ae9ab881f8cde14b406e1c67d889",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Edna Mode identifies the franchise; accept either installment. The originally derived direct URL now passes GET, frame decoding and browser animation checks.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q18",
+      "mediaUrl": "https://media1.tenor.com/m/cQ3eFrsAL6MAAAAd/kung-fu-panda-inner-peace.gif",
+      "sha256": "0e3ec5876212657bb3480fb798303bc1aff05d37f74590f006714076939e0e69",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Franchise answer; exact installment not established from metadata.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q19",
+      "mediaUrl": "https://media1.tenor.com/m/VfPKLvgm7L8AAAAd/minions-despicable-me.gif",
+      "sha256": "cd947879758f7eff225763c5ac58a374bac1f240223f8f70e747778a9040a606",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Two Minions react in surprise. Accept the franchise; exact installment is not established. 400 px wide: confirm projector legibility.",
+      "cautions": [
+        "Below preferred 480 px width: confirm projector legibility"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q20",
+      "mediaUrl": "https://media1.tenor.com/m/e54PatdaMQoAAAAC/ratatouille-remy-cooking.gif",
+      "sha256": "1b0bf18c753c5a12fe04c5a0aac9195b4a4ce12cf484d6fe1572b57ad0aaf94f",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Replaced an abrupt, highly saturated flashback transition with a calmer kitchen scene; no caption.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q21",
+      "mediaUrl": "https://media1.tenor.com/m/QhGXmMSpiEIAAAAC/indiana-jones-raiders-of-the-lost-ark.gif",
+      "sha256": "95a9c21f28f4080b2508ba80a4a4290f877f3abd3433a3d3dfb0aed9ac613210",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Replaced a dark six-frame clip with a longer scene showing his face. Still a dim cave scene: confirm projector contrast.",
+      "cautions": [
+        "Dim cave: confirm venue contrast"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q22",
+      "mediaUrl": "https://media1.tenor.com/m/ZAEsVcBljoAAAAAd/et-et-the-extra-terrestrial.gif",
+      "sha256": "0bf3a48899e932012c0f78805fd6be859dfe5c50d915034250817d55d6f93275",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened; no source-title caption found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q23",
+      "mediaUrl": "https://media.giphy.com/media/6uGhT1O4sxpi8/giphy.gif",
+      "sha256": "8fd5b2fa6e975f6d40111de95c78c5b420fd821ee7b5b0f66b799fc15747d099",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened: original room background, no face swap or source-title caption found. 426 px wide: confirm projector legibility.",
+      "cautions": [
+        "Below preferred 480 px width: confirm projector legibility"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q24",
+      "mediaUrl": "https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif",
+      "sha256": "65f5f51012ce8a02593fe28fe3b7f7679c31d4fb27889c57610c35170d176455",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened: raised glass and fireworks, no answer-title caption. 478 \u00d7 200; confirm motion comfort, contrast and audience suitability.",
+      "cautions": [
+        "Below preferred 480 px width: confirm projector legibility",
+        "Bright scene elements: confirm motion comfort",
+        "Dialogue/drinking: confirm audience suitability"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q25",
+      "mediaUrl": "https://media1.tenor.com/m/GNVFLXZ4rCsAAAAd/truman-show-good-morning.gif",
+      "sha256": "ec93872b1cb3e4b381dddd719ef3a23123081d3d79893a19e7320c4270d48070",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened; no source-title caption found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q26",
+      "mediaUrl": "https://gifdb.com/images/high/men-in-black-will-smith-qjcs19wqhf8z2e7y.gif",
+      "sha256": "1d8a3f5091474df4b52f9681a3ae3afb2256f04c2047d8a52e5d67b6f9fe40e4",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Franchise accepted; exact installment is not established. The originally derived direct URL now passes GET, frame decoding and browser animation checks.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q27",
+      "mediaUrl": "https://gifdb.com/images/high/ghostbusters-peter-venkman-what-ipty1k5k5jtpyngt.gif",
+      "sha256": "979e8797be867bde389efb5ec2bd6848cd0194a2a0f480a6a7495b7b01de387c",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "The originally derived direct URL now passes GET, frame decoding and browser animation checks. Full sequence screened; no source-title caption found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q28",
+      "mediaUrl": "https://media1.tenor.com/m/6m6W6J-96GEAAAAC/joaquin-phoenix-gladiator.gif",
+      "sha256": "00ff17b3415579f6ea7cd7e57aa3211f809e3ba1821326cf0a376a62b3ed8001",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Replaced a face-swapped upload. A second candidate was rejected for a Gladiator watermark; the selected clip has no title text or face swap.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q29",
+      "mediaUrl": "https://gifdb.com/images/high/rocky-balboa-training-i-m-ready-f9w3dxbzw5ubax2c.gif",
+      "sha256": "8731e2a3a093e0b14119735365eb351a4a03e1e90be4f95c3f5f85b04cbfe2bc",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Accept the franchise. Actual size is 6.03 MiB, below the 8 MiB preference; check venue loading speed. Originally derived URL validated with GETs and actual animation.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q30",
+      "mediaUrl": "https://media.giphy.com/media/mlGCsBLl4luyQaOl8w/giphy.gif",
+      "sha256": "10b54687e76c012346f1e1aa0aedffbad098bd1110bf5914de3e2020f2b8e941",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "The deliberately difficult wildcard. Tell teams before this question that the source is a video game, not a film.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q31",
+      "mediaUrl": "https://media1.tenor.com/m/639H6lRrvpcAAAAd/friends-joey.gif",
+      "sha256": "19d056a5c82d73d354f7b8309708bf95e0d01d6a9c87dc2a607bbe737e8a8dec",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "353 px wide: confirm projector legibility. Full sequence screened; no source-title caption found.",
+      "cautions": [
+        "Low resolution: projector legibility remains a host check"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q32",
+      "mediaUrl": "https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif",
+      "sha256": "532c10ceea4a91c0c6b74a104d4203ba834b63fcb19a08be6e733638782f8906",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Source channel labels this season 9. Ordinary thank-you dialogue does not reveal the series title.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q33",
+      "mediaUrl": "https://media.giphy.com/media/iYK1uqbfkvDSE/giphy.gif",
+      "sha256": "737df0aea6e562eb4d14cceb8b681e4eea916770549ddf96badc8c96021735a8",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "245 \u00d7 160: the weakest-resolution selection; replace from the same series or void if unreadable on the projector. Mild hostile dialogue; host must judge audience suitability.",
+      "cautions": [
+        "Low resolution: projector legibility remains a host check",
+        "Dialogue/drinking: confirm audience suitability"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q34",
+      "mediaUrl": "https://media1.tenor.com/m/S19TFT9XGjMAAAAd/mr-bean-smug.gif",
+      "sha256": "7b226363d262ac5690ddceea9c474e34afe8957e8b8d031ad2b7139a11fee781",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Replaced a 31.8 MB waiting meme from a film with a 2.1 MB television exam scene. No caption. 374 px wide: check projector legibility.",
+      "cautions": [
+        "Low resolution: projector legibility remains a host check"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q35",
+      "mediaUrl": "https://gifdb.com/images/high/evil-laugh-muahaha-mr-burns-px3ie7f57krnqb4k.gif",
+      "sha256": "de5212dcd884c3962f3ae3d07947253de08b9d8cfbadb7045654afde2b272f86",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "The originally derived direct URL now passes GET, frame decoding and browser animation checks. Full sequence screened; no source-title caption found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q36",
+      "mediaUrl": "https://media.giphy.com/media/NUBp5KcV0PJBe/giphy.gif",
+      "sha256": "97208b83c29d841ee2b8869d05fd740f4d2506efdc08349ed8da07e9b3e7f15d",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full 24-frame sequence screened: Walter speaks in the desert. No drugs, weapons, graphic violence, heavy profanity or answer-title text found in this selected clip. Venue audience review remains required.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q37",
+      "mediaUrl": "https://gifdb.com/images/high/game-of-thrones-clever-tyrion-2s8o1vqoa7qoroes.gif",
+      "sha256": "1059097bd53ebaf5a3644fee934fda32f8d855a9bfbcba30a8c32ff140fd653f",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Full sequence screened: drinking and sarcastic dialogue, without a source-title caption or explicit content. Originally derived direct URL validated. Host must judge audience suitability.",
+      "cautions": [
+        "Dialogue/drinking: confirm audience suitability"
+      ],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q38",
+      "mediaUrl": "https://gifdb.com/images/high/stranger-things-eleven-waving-xowcpolj1l7jw7lr.gif",
+      "sha256": "929ab2bad1ff1da79fefc9126809a3ddf195ef58e90375c062e16f2a5c8a9a25",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "The originally derived direct URL now passes GET, frame decoding and browser animation checks. Full sequence screened; no source-title caption found.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q39",
+      "mediaUrl": "https://media1.tenor.com/m/TQ-H4qHEEc4AAAAd/wednesday-dance.gif",
+      "sha256": "9b7a64ebeb4f84b3c2b0cee7d166ecacdbcc9eafb1d443879dbef03b6cbc567a",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "Accept Wednesday/Mercredi, not merely The Addams Family: this clip is from the series.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    },
+    {
+      "id": "q40",
+      "mediaUrl": "https://media1.tenor.com/m/mBLQ4i36j9YAAAAd/baby-yoda-soup.gif",
+      "sha256": "569ae79607f9b92ac4b18a45273aceff2b52e8aba412e77f1ac9a534eb436385",
+      "allFramesScreened": true,
+      "browserFullLoopObserved": true,
+      "answerTitleTextFound": false,
+      "unsuitableExplicitContentFound": false,
+      "reviewNote": "For this television round require The Mandalorian; Baby Yoda is the character, not the source. Announce the rule in advance.",
+      "cautions": [],
+      "hostVenueApproved": false,
+      "rightsCleared": false
+    }
+  ]
+}

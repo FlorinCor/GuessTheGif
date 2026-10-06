@@ -1,0 +1,770 @@
+{
+  "checkedAt": "2026-10-06T13:38:58.607Z",
+  "mode": "real-remote-media-http-nested-path",
+  "syntheticMedia": false,
+  "passed": 40,
+  "total": 40,
+  "pageErrors": [],
+  "questions": [
+    {
+      "id": "q01",
+      "mediaUrl": "https://media1.tenor.com/m/gp2VXShBDQ4AAAAd/neo-dodging-bullets.gif",
+      "fixture": false,
+      "loadMilliseconds": 1290,
+      "dimensions": [
+        640,
+        350
+      ],
+      "observedMilliseconds": 4680,
+      "changingPixels": true,
+      "pixelHashes": [
+        "e6e6b30ae964e403bbf2b6add1ee78f753c606d355fed50454c713ecf4b484af",
+        "e7f668d6bc20eb73ae85a101abe397e582421e209004ba22f1e5eae284771389",
+        "302ab0d19c02a85a148152f6102d66f026385f4318b4636b4872948ddaa80760",
+        "5d03df1e50ae23d0366e0169c618884119e244f2eb8598207521507cdd55fb4a"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q02",
+      "mediaUrl": "https://media1.tenor.com/m/GTpLWsrY6cMAAAAd/titanic-open-your-eyes.gif",
+      "fixture": false,
+      "loadMilliseconds": 1003,
+      "dimensions": [
+        640,
+        490
+      ],
+      "observedMilliseconds": 2680,
+      "changingPixels": true,
+      "pixelHashes": [
+        "a01b13edbd687186c3d8cdff391ac28fb2d9286248571be1fddd8d6028cc120d",
+        "da23e0d5863984156b94b2f2aae996c49117bbea44ea05e52de04036cfb345ea",
+        "9570aae6384bf57e051fdb42de223bac8ce0e4f8d956a502b93b9e7a9b0719e0",
+        "9aaa62d98dd1f0b74ae7148a4bacf7d78c70e8297c72a795b71dcfe57b642002"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q03",
+      "mediaUrl": "https://media1.tenor.com/m/pyj35djdFMEAAAAd/doc-brown-back-to-the-future.gif",
+      "fixture": false,
+      "loadMilliseconds": 915,
+      "dimensions": [
+        374,
+        272
+      ],
+      "observedMilliseconds": 2680,
+      "changingPixels": true,
+      "pixelHashes": [
+        "827faec7303f7a15116b1cafe956b8918744e763b6b5d9b036405a5926463898",
+        "0ca0c0a977091121ba93ff2ac93d745cf8bc756aa52d9aa290966c8da85c2ebf",
+        "1c97605cb1608cf7def0b7e0c4c86a445c83c11b67f958cfc7973aa4096f6321",
+        "dbed82cbd6ba410a4018451986ffaa5b62c1496e67b629939c11c039b644905d"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q04",
+      "mediaUrl": "https://media1.tenor.com/m/Ba6ybKvObY0AAAAd/jurassic-park-surprised.gif",
+      "fixture": false,
+      "loadMilliseconds": 1015,
+      "dimensions": [
+        480,
+        270
+      ],
+      "observedMilliseconds": 5980,
+      "changingPixels": true,
+      "pixelHashes": [
+        "9629bb88c5b9fe644dd38b21c7578c2e6a3ea10f5385f99d4bb3985ef61edff9",
+        "a846c5fd873645ac0226e3ca6a3fb3c95849811365c85facdba77cb006e675a1",
+        "ee7f7187ca8039a17e570080b85f2fa6d8f197bfa7fe0144d7487ccad5764980",
+        "f6671053c9fb2fa67d8b027ec03bde9624aa1634675a0b1c7e140ce21ed7620d"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q05",
+      "mediaUrl": "https://media1.tenor.com/m/7g4PDIh2QuUAAAAC/home-alone-scream.gif",
+      "fixture": false,
+      "loadMilliseconds": 615,
+      "dimensions": [
+        498,
+        224
+      ],
+      "observedMilliseconds": 2080,
+      "changingPixels": true,
+      "pixelHashes": [
+        "105a935117f52c9d870fc327c0910c5c0e25369df5001d448389c5d8d573a083",
+        "ed9edfce9bcbf4a6a38168cef96337156751e9d16b4a2dfde99c1b261a0e17d4",
+        "74df5687697bb89daed06efcef92b78179e87db7fa78585b3eaba77a483bc030",
+        "ed9edfce9bcbf4a6a38168cef96337156751e9d16b4a2dfde99c1b261a0e17d4"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q06",
+      "mediaUrl": "https://media1.tenor.com/m/m3WHzfC1IpkAAAAd/forrest-gump-wave.gif",
+      "fixture": false,
+      "loadMilliseconds": 578,
+      "dimensions": [
+        403,
+        200
+      ],
+      "observedMilliseconds": 1910,
+      "changingPixels": true,
+      "pixelHashes": [
+        "6b5a6ffda386f95c061421b31e04ef5f90aaa72a37872b03b057ddf04be7d6cc",
+        "9ee56f719886f59272d927d6fb6aa70de6b984ae649954a999f139d7ec60cb40",
+        "32787bcd93b2155bb4ebdfc7c75f82bffa98fd154b6b8f7533667f925af30efd",
+        "f71f37a392c809d5675a57b4977facb93e53931c7916405ec3a6004408c8bbe0"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q07",
+      "mediaUrl": "https://media1.tenor.com/m/TkUUnoTzjdoAAAAd/sorting-hat.gif",
+      "fixture": false,
+      "loadMilliseconds": 824,
+      "dimensions": [
+        640,
+        260
+      ],
+      "observedMilliseconds": 3430,
+      "changingPixels": true,
+      "pixelHashes": [
+        "907c250227f95d38778f7afcbd640c3cc165b04037e468f9621ac19dafa098cd",
+        "f26e5e39d2aa17ed9cd9e0d494337e3c2157ee1ddb1a6aedd194bd3d790b5b30",
+        "907c250227f95d38778f7afcbd640c3cc165b04037e468f9621ac19dafa098cd",
+        "c478d158b45bbbbd56a27e1cde9df0c7a398cce5e0283a6a19bcb8378bacac42"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q08",
+      "mediaUrl": "https://media1.tenor.com/m/XwP93b5gkh4AAAAd/jack-sparrow-running.gif",
+      "fixture": false,
+      "loadMilliseconds": 1018,
+      "dimensions": [
+        361,
+        200
+      ],
+      "observedMilliseconds": 6280,
+      "changingPixels": true,
+      "pixelHashes": [
+        "57e9a2408d1144345635ad573db740490ddb6eefed5a3e6b66372734382657c2",
+        "7e0ddc7ceabd912246a14f7e24b76cd43d5ca1f83579eb99587e07e98a491025",
+        "b3c11651a850a04eac26df9f59d16417c0d49fcec608bd3c4370c5151686e714",
+        "b74d000ff33fb8f14118a66b66abf32ca0e36fd0504c66ab949500e460d832d0"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q09",
+      "mediaUrl": "https://media1.tenor.com/m/Rv-IfOOXPSIAAAAC/you-shall-not-pass-lotr.gif",
+      "fixture": false,
+      "loadMilliseconds": 1166,
+      "dimensions": [
+        498,
+        206
+      ],
+      "observedMilliseconds": 3780,
+      "changingPixels": true,
+      "pixelHashes": [
+        "c85d915651fb9861e6646f8a7559d7d99c5d1094d601a8369a86cb263b8a115d",
+        "2d7e7896a8f99eb2fe8ecfd20147dd7e651841c3d425b822a39487f335d00a63",
+        "e280fa226c80ec375fa8f519535fe47ddefd9d25a07da1cf440536d7a680b964",
+        "a04c990a91601f33f1358ca1b877ba45841a542d556c46720fe0b11463eec037"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q10",
+      "mediaUrl": "https://media1.tenor.com/m/qBfZ7ckNw1kAAAAd/star-wars-yoda.gif",
+      "fixture": false,
+      "loadMilliseconds": 696,
+      "dimensions": [
+        498,
+        272
+      ],
+      "observedMilliseconds": 2780,
+      "changingPixels": true,
+      "pixelHashes": [
+        "60e2c446647ec136f9847f935539938fa1fc66e557defe7edafb4c539cde23c7",
+        "30e76e5c7aaf122d8a969a3f4d3d6fda9d5139bc0d837a9d1c62c2fafae5bce0",
+        "cb699029d708aeb2ee4c88138aaeee3b0975845b4e71d4e5885b18a8a9839d71",
+        "899aeb7dac9063d7e5c002efb71c578c371dd1e0bf219c7b2405451a79584104"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q11",
+      "mediaUrl": "https://media1.tenor.com/m/QHGcA9ApXQUAAAAd/shrek-donkey.gif",
+      "fixture": false,
+      "loadMilliseconds": 395,
+      "dimensions": [
+        640,
+        414
+      ],
+      "observedMilliseconds": 2230,
+      "changingPixels": true,
+      "pixelHashes": [
+        "6f41228b1942072b098156214597f9e4f935f00201476681a8b74aec40fc7c16",
+        "c9a5e52d42bca260787f55aec1d8d259c29ce985a2576f1ac984d8dfa438b7b9",
+        "35163f450e5b5416317c56798281841c6a7d8e4bf38c3ad2019ad99f33cb0539",
+        "d6acdf566f54019300d12ee4f19f1b983cb51a0b160724faf930006b96f7f509"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q12",
+      "mediaUrl": "https://media1.tenor.com/m/GXVSae3o2goAAAAC/winking-at-each-other-buzz-lightyear.gif",
+      "fixture": false,
+      "loadMilliseconds": 817,
+      "dimensions": [
+        498,
+        281
+      ],
+      "observedMilliseconds": 1960,
+      "changingPixels": true,
+      "pixelHashes": [
+        "6e21d076d0b73b8379ecca290fc13a570d8a81329da46c73938cd3109d5184e3",
+        "6a1ce3bd840ef509b501a260d7c91f7451be7cb14672e0c306a6a3b94a821ea9",
+        "1b7b4c3a203d876e97bcac3e99eb7c5748493dc3eb3bcfb1fdbacc0dd5559abf",
+        "f57aff18825775e4c337d1f4e3eeb0163e63a23f9a0ebcdc4dc04addf0b6b9da"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q13",
+      "mediaUrl": "https://media1.tenor.com/m/GhV5_jO-HugAAAAC/rafiki-simba.gif",
+      "fixture": false,
+      "loadMilliseconds": 669,
+      "dimensions": [
+        498,
+        298
+      ],
+      "observedMilliseconds": 2680,
+      "changingPixels": true,
+      "pixelHashes": [
+        "4d84031eb293b0321bf31d9a7dbf6d08da300f1f0dff55fd7d05720324f40d7f",
+        "4a21d4f9f2613e2c7bfe125d7a8618c68bdb8b32f94d04092268a26b3c18c72f",
+        "99578dc3f78ff826991f0f6bd8e615e46a202b1ada586f11f76aa4755f96ea45",
+        "5325d1a7d9e41cac6f140c21c294c8aa332fdd11ab3ca2d7958a092480a55a93"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q14",
+      "mediaUrl": "https://media.giphy.com/media/3oxRmrZu7b9egmWODS/giphy.gif",
+      "fixture": false,
+      "loadMilliseconds": 854,
+      "dimensions": [
+        480,
+        270
+      ],
+      "observedMilliseconds": 2780,
+      "changingPixels": true,
+      "pixelHashes": [
+        "8fa0040abab241c150fb4ed0d5d9215bc9ba36593b21faf42dae92254d78b9ec",
+        "40e2b475cb3f74f3dd5ee530c0acf18e69af09b129fb9eac20333a8e0358e3dc",
+        "ef58228f037367df5456b7fb92240a9847dea3b30e4799974f5b18e95b8084d9",
+        "cfbec4ef525b13f30e6fac1ec1611ee7193947a0b62f3ad5ee7d8bf170b263d1"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q15",
+      "mediaUrl": "https://media1.tenor.com/m/fNY2IAdnFsQAAAAd/frozen-elsa.gif",
+      "fixture": false,
+      "loadMilliseconds": 751,
+      "dimensions": [
+        498,
+        262
+      ],
+      "observedMilliseconds": 7080,
+      "changingPixels": true,
+      "pixelHashes": [
+        "7c45766060ef32e2d5e80c49c6fe5b7e4849b92da12c9c8d6670a794318689ce",
+        "1b6939e769ab194ac02614d9167e673dd1a4b2d7e1cf2ec1184b0d4c789282f5",
+        "dcadc913d7a8b5c34a4aed0cc579029df30a74873b04e5108169798542a50432",
+        "b3d4de954628b7de3c57c928bd9ff24a820ba148746e2374a9774c9b3b6c7954"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q16",
+      "mediaUrl": "https://media.giphy.com/media/J8DQdZISLZU0m6FT2u/giphy.gif",
+      "fixture": false,
+      "loadMilliseconds": 475,
+      "dimensions": [
+        480,
+        270
+      ],
+      "observedMilliseconds": 2800,
+      "changingPixels": true,
+      "pixelHashes": [
+        "d5d21475a5bbb66843569743033e73bbd13506b0df2d6a4dbcab50265293b2f6",
+        "60c6b03c1b55f01f78da618191df192076e014ae21d05160032802f92a65315b",
+        "9c1d8566db2e3c7a3a735d2f6185bb3d86cd8e32d0683241b21a7c35e948f575",
+        "34fc30f214cf334fa7f515c599cd1cc987211025b44933eff2be11c4ed8737a3"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q17",
+      "mediaUrl": "https://gifdb.com/images/high/edna-mode-enjoying-visits-ju8va9vlyn6w7klw.gif",
+      "fixture": false,
+      "loadMilliseconds": 679,
+      "dimensions": [
+        671,
+        500
+      ],
+      "observedMilliseconds": 1380,
+      "changingPixels": true,
+      "pixelHashes": [
+        "2642ce476ebc8830cc8e1501e1fd0d278cff9661e26d3fbd7993cbc961b3cf6a",
+        "ad9552b1868ee4fa7679341eb06edd9820efe8c3a4eede969abba91fc9ed1b37",
+        "006472deae9cff1095c8ae581b4c811fa9eaaa8376592fe111c12b9653a0c504",
+        "d403d23675b4ea3dc076dcc0bd51cc1e741866f1134e8bf3fb8b11566faf9a73"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q18",
+      "mediaUrl": "https://media1.tenor.com/m/cQ3eFrsAL6MAAAAd/kung-fu-panda-inner-peace.gif",
+      "fixture": false,
+      "loadMilliseconds": 738,
+      "dimensions": [
+        640,
+        264
+      ],
+      "observedMilliseconds": 4310,
+      "changingPixels": true,
+      "pixelHashes": [
+        "6c3f76b2d4e01821d744b63ec3bafce62acd9af77693f1c27e14b798d5cd13ca",
+        "1df26493fbcf6b71ca055d482d95b4882d8331e5993cfe96df2895e2c6e00dea",
+        "d18dbaae769a1c214ebb6d4a9a89c0feefc5248b157acbd4f1fba9bae60ffac7",
+        "6448f98437d0aa5622fd7cdf84e354b94a086a2d5a9043a37195da2fe1fb454e"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q19",
+      "mediaUrl": "https://media1.tenor.com/m/VfPKLvgm7L8AAAAd/minions-despicable-me.gif",
+      "fixture": false,
+      "loadMilliseconds": 861,
+      "dimensions": [
+        400,
+        400
+      ],
+      "observedMilliseconds": 1380,
+      "changingPixels": true,
+      "pixelHashes": [
+        "cd09b766dfd723aa17e32b1db44c180f3b5a42efbbae31e385d6d37051d7c3e9",
+        "2f7845926c97a2b396ba8c70da41234d22b1bf05e80467324ffb4853a3e8189b",
+        "4a75b9fa97beacdc4312e1a55fe8bdbef3e07ab7a6adfe69e7e77379cf7b61a5",
+        "4c1b3ab09d928ee8b0c3c06803c60af31baac5f03b75e5209b232ea35d366d1a"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q20",
+      "mediaUrl": "https://media1.tenor.com/m/e54PatdaMQoAAAAC/ratatouille-remy-cooking.gif",
+      "fixture": false,
+      "loadMilliseconds": 847,
+      "dimensions": [
+        498,
+        253
+      ],
+      "observedMilliseconds": 2520,
+      "changingPixels": true,
+      "pixelHashes": [
+        "34b8f30f590fbe386beead0f1446fe827edc98314921227449b3ad5ab1ad0672",
+        "46a17dd42d7d591d2628a95a6cd7dfaf683dc5f5151c1b0ca7c5e5998eeb884c",
+        "687f0156f733f405cb0653d90d76c3f279dfed2ff014416de043f6c934bf45a4",
+        "f0bc9b775facbbf1039e82d1530fea38288035e24e2f265c4c7ce2a0a5af7d5c"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q21",
+      "mediaUrl": "https://media1.tenor.com/m/QhGXmMSpiEIAAAAC/indiana-jones-raiders-of-the-lost-ark.gif",
+      "fixture": false,
+      "loadMilliseconds": 965,
+      "dimensions": [
+        498,
+        213
+      ],
+      "observedMilliseconds": 5380,
+      "changingPixels": true,
+      "pixelHashes": [
+        "657d03b5e5d0ea94969b08efb2c8c03b02e0f8c5dd45907b561a9672a95fc349",
+        "6551a9be36d57d6c5e9362c9e61c4e629778fa871a1399686941bf8656d04d44",
+        "956bcc5eab38e34b6c10614b21dfdc00181380452ffd728648884fc666e5b261",
+        "c4746c0444354e0fe3595b30fdd85768f64270e50854626c926165848c504f79"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q22",
+      "mediaUrl": "https://media1.tenor.com/m/ZAEsVcBljoAAAAAd/et-et-the-extra-terrestrial.gif",
+      "fixture": false,
+      "loadMilliseconds": 878,
+      "dimensions": [
+        640,
+        348
+      ],
+      "observedMilliseconds": 4670,
+      "changingPixels": true,
+      "pixelHashes": [
+        "dcd7bfcdfb252ced59999de4baeca28a2b1e7cefbb210caf118e4b273d444a8e",
+        "489a29250ad85d100ca8264881596391fe5285eb248a1b603046ba322f59757b",
+        "8d553b1b57a896457cf56c63740a18152182987f59eb75b0996df3bb90e3d635",
+        "a59dcc63fa88b367729a705c3ed01ce51be3650a7e2ac81065a9fd529afce098"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q23",
+      "mediaUrl": "https://media.giphy.com/media/6uGhT1O4sxpi8/giphy.gif",
+      "fixture": false,
+      "loadMilliseconds": 719,
+      "dimensions": [
+        426,
+        213
+      ],
+      "observedMilliseconds": 3820,
+      "changingPixels": true,
+      "pixelHashes": [
+        "72974b3a4dc66341166bdcbae3a9f37202dfefb751ce194764b27250e965f67a",
+        "6b0202914b1d001c6b51135fb76174728cdf1ef7979ef36a481a12e9600698c5",
+        "791d61456a71e1a0e0d0cff5f89856f584475ca3e6686cd1f04027def5c01bdb",
+        "3ebbcceadb537854f78ba9ff809eb006a03e045aae7d07f29bad129723325641"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q24",
+      "mediaUrl": "https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif",
+      "fixture": false,
+      "loadMilliseconds": 509,
+      "dimensions": [
+        478,
+        200
+      ],
+      "observedMilliseconds": 3040,
+      "changingPixels": true,
+      "pixelHashes": [
+        "1cf5bc562f5023c63d5cf4e555690688736bc7b046ae4b1340e62cb646ac2a0d",
+        "35690c87a15db4845c1b4af1906b472640977cf1871f3633dbc27197a9bdbe27",
+        "3ddd37f47346d50a89a696e70df653fa5f2ec5be43d50673365560b85d58d20c",
+        "e5bd255931837d94c1f0c5e68ba0896db474794a3d9a12f8c74b45238130a980"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q25",
+      "mediaUrl": "https://media1.tenor.com/m/GNVFLXZ4rCsAAAAd/truman-show-good-morning.gif",
+      "fixture": false,
+      "loadMilliseconds": 1484,
+      "dimensions": [
+        498,
+        282
+      ],
+      "observedMilliseconds": 2220,
+      "changingPixels": true,
+      "pixelHashes": [
+        "ffa76bf83b750e50ac639e8cfa95e85d3cc16e4e1db00e725d9067125d733e84",
+        "30dfd7967686e78fa5a3ddb50513f0b357a606127f11191c85180c3f27a02344",
+        "e6b5c6e50040aff3f53b94ee5ce5eddecdb74414067f4ea7651379b786e20dca",
+        "35af6d71df3686bb3eb1356d690c9522dae96b526bcd92be565ef457c98087f3"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q26",
+      "mediaUrl": "https://gifdb.com/images/high/men-in-black-will-smith-qjcs19wqhf8z2e7y.gif",
+      "fixture": false,
+      "loadMilliseconds": 1036,
+      "dimensions": [
+        950,
+        500
+      ],
+      "observedMilliseconds": 1480,
+      "changingPixels": true,
+      "pixelHashes": [
+        "9c2e66206dd2fd24ccff9ad619151033dfebdb0a7905f7a88a70b9d0027f70c6",
+        "81a152d90fc321ccf389e76e9fa2274c6f21bf6782a6b39111be67a2c3f294ba",
+        "9c2e66206dd2fd24ccff9ad619151033dfebdb0a7905f7a88a70b9d0027f70c6",
+        "81a152d90fc321ccf389e76e9fa2274c6f21bf6782a6b39111be67a2c3f294ba"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q27",
+      "mediaUrl": "https://gifdb.com/images/high/ghostbusters-peter-venkman-what-ipty1k5k5jtpyngt.gif",
+      "fixture": false,
+      "loadMilliseconds": 1409,
+      "dimensions": [
+        500,
+        500
+      ],
+      "observedMilliseconds": 1480,
+      "changingPixels": true,
+      "pixelHashes": [
+        "cd56063da63175b44dd1f95270c7baae84407898be0b2985227a1920c054d998",
+        "407e1c1e6a2fd6ee39055397ee6fcb672cb055292c682e4d754c65f2fde6be7e",
+        "0079c5689dd85cbf00185270da6855f1a08a010f6fc3f1975961b7ccf186453b",
+        "b1b188e70b4713d3221c6bfe1ae78b9c56742efe62f93ba645f6e70561de6d37"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q28",
+      "mediaUrl": "https://media1.tenor.com/m/6m6W6J-96GEAAAAC/joaquin-phoenix-gladiator.gif",
+      "fixture": false,
+      "loadMilliseconds": 1181,
+      "dimensions": [
+        498,
+        280
+      ],
+      "observedMilliseconds": 4080,
+      "changingPixels": true,
+      "pixelHashes": [
+        "1271a3bc1f13f5252fa8c826d3a74316032ecdf5ccaeddcd562918901fd75425",
+        "5bf0e1151106ce07c875267e202168221495e392007b221b1d6560b9adf73751",
+        "dde369324176d6f490c6e56878e87c1812d5490c8224a2685f4d6698b751e7ac",
+        "301140607a163cdf35a45006df034af0889c83ecdd6892c80da27b58f13db66f"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q29",
+      "mediaUrl": "https://gifdb.com/images/high/rocky-balboa-training-i-m-ready-f9w3dxbzw5ubax2c.gif",
+      "fixture": false,
+      "loadMilliseconds": 1171,
+      "dimensions": [
+        929,
+        500
+      ],
+      "observedMilliseconds": 3080,
+      "changingPixels": true,
+      "pixelHashes": [
+        "c27fb98eb317c171fa8b762f7e2c55ca11e4e153fb3ee4a8813f8184b3131909",
+        "6e6f934bf794d149f4147446c2d2aa817372ea26cf8b7b7ef4b78db2d2eca63e",
+        "32aa1bd01bf74cde7a251a1d2cb475fd14ca4c2dacd761b06c46ecf4d9c3c7bf",
+        "fbd54ec1b561a8bcac47bc853cc667c89be64e89b26c1a290ca63ef5ca894fd4"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q30",
+      "mediaUrl": "https://media.giphy.com/media/mlGCsBLl4luyQaOl8w/giphy.gif",
+      "fixture": false,
+      "loadMilliseconds": 584,
+      "dimensions": [
+        480,
+        440
+      ],
+      "observedMilliseconds": 2070,
+      "changingPixels": true,
+      "pixelHashes": [
+        "60422577628f50c012e8d200e13b973242b4bdb24fbc17d85a96b9e72cec46f7",
+        "3317e839334cb2f417a6fac683b9f321c73e2a6831e045ae99aa0c45a7ca211b",
+        "dc44408c3e12273a367338f46773d98d806973445782e1a09b843c3d38f12eb0",
+        "045d74857b12259f750118d4f01b56da50775df4868f891609237dc9f1070ed2"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q31",
+      "mediaUrl": "https://media1.tenor.com/m/639H6lRrvpcAAAAd/friends-joey.gif",
+      "fixture": false,
+      "loadMilliseconds": 699,
+      "dimensions": [
+        353,
+        353
+      ],
+      "observedMilliseconds": 1780,
+      "changingPixels": true,
+      "pixelHashes": [
+        "fc92072f29e33eaf58022a656af2c22161073346a8c409f4a874c72295e568ee",
+        "09ba07dee178f4e254934b3ee122917129c6a074c9a7c1f2abaa3c47d040d8dc",
+        "fc2ef78c0ef34896ac7b3d3ea846201eafa81744ba298f2e5cf65b4ef72d6b55",
+        "4e5290ce14ba33698ab6cf5a24ad5a9e77400a1511d44ed66adefa747ac6c119"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q32",
+      "mediaUrl": "https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif",
+      "fixture": false,
+      "loadMilliseconds": 1155,
+      "dimensions": [
+        480,
+        400
+      ],
+      "observedMilliseconds": 1610,
+      "changingPixels": true,
+      "pixelHashes": [
+        "2c0f49f5f3b3d3aaceb6da25c3d2f6b6fdf6a93613fd5449d7fc0973315b281e",
+        "a093524033da70f2fd54864bf8714c55da971d44f110f94ee05703fee8967d77",
+        "2c0f49f5f3b3d3aaceb6da25c3d2f6b6fdf6a93613fd5449d7fc0973315b281e",
+        "a95f7d176629a7d22abbefb94c7a5b5e9561c961045cd7fa85eb0687188ba476"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q33",
+      "mediaUrl": "https://media.giphy.com/media/iYK1uqbfkvDSE/giphy.gif",
+      "fixture": false,
+      "loadMilliseconds": 1018,
+      "dimensions": [
+        245,
+        160
+      ],
+      "observedMilliseconds": 3110,
+      "changingPixels": true,
+      "pixelHashes": [
+        "caa7ea1f2d19d603a33983cf071f267f069051f2edb868363a9d721c5254e04c",
+        "c469cebfd0969fe2adc95aec709dee9b7c69b0bcc3cebf2c0aac086b09ba3404",
+        "63040d815a765bb7f28b9ef84f36e030cb2f66f5deabe9c31ad63b4fd083d5e5",
+        "caa7ea1f2d19d603a33983cf071f267f069051f2edb868363a9d721c5254e04c"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q34",
+      "mediaUrl": "https://media1.tenor.com/m/S19TFT9XGjMAAAAd/mr-bean-smug.gif",
+      "fixture": false,
+      "loadMilliseconds": 703,
+      "dimensions": [
+        374,
+        210
+      ],
+      "observedMilliseconds": 3670,
+      "changingPixels": true,
+      "pixelHashes": [
+        "bf309fb9f0211106c851ccadaa9be28d32e3a9a16165b515b7ed60092381741f",
+        "338ac326ff850cf4904d23a41f6bd26cca059033cf444af3c1edfef0ad3281e5",
+        "5cc43781052f42a1f6e1c8125d66ec455650af5d10dda4e6fd3249be90eca483",
+        "338ac326ff850cf4904d23a41f6bd26cca059033cf444af3c1edfef0ad3281e5"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q35",
+      "mediaUrl": "https://gifdb.com/images/high/evil-laugh-muahaha-mr-burns-px3ie7f57krnqb4k.gif",
+      "fixture": false,
+      "loadMilliseconds": 711,
+      "dimensions": [
+        601,
+        500
+      ],
+      "observedMilliseconds": 1280,
+      "changingPixels": true,
+      "pixelHashes": [
+        "2510f2e0524cdf095808d1295358fdd0084dd258f0398fc271cf2265822e681d",
+        "3844bd3d32f9e8581993f7d68e5fd326b08209baa0e7c029bf8a221418f491e9",
+        "530bb8c0ea3f4b2f3801bc22886d0c105e7d316a1e5c9e5fc4831fa5582e1125",
+        "3844bd3d32f9e8581993f7d68e5fd326b08209baa0e7c029bf8a221418f491e9"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q36",
+      "mediaUrl": "https://media.giphy.com/media/NUBp5KcV0PJBe/giphy.gif",
+      "fixture": false,
+      "loadMilliseconds": 528,
+      "dimensions": [
+        500,
+        283
+      ],
+      "observedMilliseconds": 1480,
+      "changingPixels": true,
+      "pixelHashes": [
+        "01d97ee3595ec7ebb0ecdb41c2314d10674913d87319cdf3b4f2985678f03635",
+        "bfe256398cca027b8cb5ca5aa39e9cc3cb7d0a5ac98a256e50b482140a44a2eb",
+        "0342c50e6a5b88482e3266b55b96859974de3bd3829b6d20a6efc3d19853d36b",
+        "01d97ee3595ec7ebb0ecdb41c2314d10674913d87319cdf3b4f2985678f03635"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q37",
+      "mediaUrl": "https://gifdb.com/images/high/game-of-thrones-clever-tyrion-2s8o1vqoa7qoroes.gif",
+      "fixture": false,
+      "loadMilliseconds": 1525,
+      "dimensions": [
+        1000,
+        500
+      ],
+      "observedMilliseconds": 2530,
+      "changingPixels": true,
+      "pixelHashes": [
+        "b60fef8e2ac6f03cd55e8e59d93148308ac65a070c9a20d27ef14871ffbbe067",
+        "9c8691ef54d673f334ffadf2ee4ca92c9a7a2bd74756f57212653459db369a30",
+        "e1e1157be04934c757b160ac6fbc7f19539e8fe50b7f5ec45e42ba9f4b884a76",
+        "0bd9c5427644280b7200556ada21e142e128c9d82bb478630593c47462ec22af"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q38",
+      "mediaUrl": "https://gifdb.com/images/high/stranger-things-eleven-waving-xowcpolj1l7jw7lr.gif",
+      "fixture": false,
+      "loadMilliseconds": 1348,
+      "dimensions": [
+        542,
+        500
+      ],
+      "observedMilliseconds": 2380,
+      "changingPixels": true,
+      "pixelHashes": [
+        "7c2d5d30ccb4389ca821e834593bfa15f5d0973d407b26454ac51515ebcf14e1",
+        "08a4547a01d3849f9bcb7ffa994e03f1c79b5581819c2d751f0cd44adf4c42fe",
+        "5a6d13bd9539d740c5e3d9f86bd443b743ee74a2d784d95265a32055a653b59d",
+        "1a7cb3d31ad6738f3501e9432f18f3d8047b708431985d16c74000a29268e31a"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q39",
+      "mediaUrl": "https://media1.tenor.com/m/TQ-H4qHEEc4AAAAd/wednesday-dance.gif",
+      "fixture": false,
+      "loadMilliseconds": 883,
+      "dimensions": [
+        640,
+        480
+      ],
+      "observedMilliseconds": 2080,
+      "changingPixels": true,
+      "pixelHashes": [
+        "0a36c4084530a4316dc2197733e70fd2b3ed391af03b400e60d46979e3820d2e",
+        "4c4055632f6d701e92a4449344332a9eed7b5c855823cccdcfa6a46605befa98",
+        "02e117441360f01724d56e6bb9eb4e256cb771b64d141a28d0f988622a1b8bef",
+        "56b02c5eaa6d8c51b4bdb92f4931809c34627ce426575b6c3cb4cc5eb7334c18"
+      ],
+      "status": "real-browser-animation-passed"
+    },
+    {
+      "id": "q40",
+      "mediaUrl": "https://media1.tenor.com/m/mBLQ4i36j9YAAAAd/baby-yoda-soup.gif",
+      "fixture": false,
+      "loadMilliseconds": 718,
+      "dimensions": [
+        640,
+        402
+      ],
+      "observedMilliseconds": 3780,
+      "changingPixels": true,
+      "pixelHashes": [
+        "8e243c2c31ccb09a90e23aaaf88dc4b37a63ceee0cf4191c3d2d8446c2b84c60",
+        "af0ad57a8e48667a43b7c637be0a16fb04363b31d699be140f69dcc48c275c59",
+        "1b89d5f0c0a5edf88bf4427bc627a32c7c9c0cf39a045c085f7c54c6cf4b9161",
+        "8e243c2c31ccb09a90e23aaaf88dc4b37a63ceee0cf4191c3d2d8446c2b84c60"
+      ],
+      "status": "real-browser-animation-passed"
+    }
+  ]
+}

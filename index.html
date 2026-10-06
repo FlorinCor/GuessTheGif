@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="no-referrer"><meta name="robots" content="noindex,nofollow">
+<title>The GIF Break — A team guessing game</title>
+<link rel="stylesheet" href="styles.css">
+<script defer src="data/questions.js"></script><script defer src="data/local-media.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+<header class="topbar"><a class="brand" href="./">THE GIF BREAK<span>Make room for a little movie magic.</span></a><nav aria-label="Tools"><button id="scoresBtn">Scores</button><button id="fullscreenBtn">Full screen</button><a class="button quiet" href="review.html" target="_blank" rel="noopener">Host review ↗</a></nav></header>
+<main>
+<section id="welcome">
+<div class="hero"><p class="eyebrow">THE TEAM HOUR / 40 CLIPS / 4 ROUNDS</p><h1>You know<br>this scene.</h1><p class="lead">But do you know where it’s from?<br>Gather your team. Trust your memory. No searching.</p></div>
+<div id="roundCards" class="round-grid"></div>
+<div class="setup-grid"><section class="panel"><h2>Set the scene.</h2><label for="teamNames">Team names <span class="muted">— one per line, 2–8 teams</span></label><textarea id="teamNames" rows="4" maxlength="600">The Plot Twists
+The Scene Stealers
+The Final Credits
+The Cliffhangers</textarea><div class="setup-options"><label for="seconds">Thinking time</label><select id="seconds"><option value="30">30 seconds</option><option value="45" selected>45 seconds</option><option value="60">60 seconds</option><option value="90">90 seconds</option></select></div><div class="actions"><button class="primary" id="startBtn">Start the quiz →</button><button id="resumeBtn" hidden>Resume saved game</button></div><p id="setupError" class="status" role="alert"></p></section><section class="panel rules"><p class="eyebrow">HOW TO PLAY</p><h2>One screen.<br>Everyone in.</h2><p>Write one answer per clip. You get <strong>1 point</strong> for the correct source. Film franchises count where the host’s answer key allows them.</p><p>The host reveals each answer and awards points. Question 30 is a video-game wildcard; the last round requires the TV series.</p><p class="small muted">Before projecting: open Host review, test all media and screen every loop. Remote GIFs contact third-party providers. Hide motion whenever needed.</p><a href="answer-sheet.html" target="_blank" rel="noopener">Print a team answer sheet ↗</a></section></div>
+</section>
+<section id="game" hidden>
+<div class="game-heading"><div><p id="roundLabel" class="eyebrow"></p><h1 id="questionLabel">Which movie or source?</h1></div><div class="timer-box"><span id="timerValue" role="timer" aria-label="Seconds remaining">45</span><small id="timerStatus">Ready when you are</small></div></div>
+<div class="progress-track"><div id="progressFill"></div></div>
+<div id="stage" class="stage"><img id="clip" alt="Mystery clip" hidden referrerpolicy="no-referrer"><div id="mediaMessage" class="media-message"><p id="mediaStatus">Load the clip to begin.</p><button id="retryBtn">Load / retry clip</button></div></div>
+<div class="clue-line"><p id="hintText"></p><p id="questionType" class="muted"></p></div>
+<section id="answerPanel" class="answer-panel" hidden aria-live="polite"><p class="eyebrow">THE ANSWER</p><h2 id="answerText"></h2><p id="acceptedText"></p><p id="sceneText" class="muted"></p><a id="sourceLink" target="_blank" rel="noopener noreferrer">GIF source ↗</a><div class="award-heading">Award 1 point to each correct team.</div><div id="awardButtons" class="award-buttons"></div></section>
+<div class="game-controls"><div class="actions"><button id="prevBtn">← Previous</button><button id="timerBtn">Start timer</button><button id="hintBtn">Hint</button><button class="primary" id="revealBtn">Reveal answer</button><button id="nextBtn">Next →</button></div><div class="actions secondary-controls"><button id="motionBtn">Hide motion</button><button id="voidBtn">Void this question</button><button id="finishBtn">Finish / scores</button></div></div>
+<p class="keyboard muted">SPACE timer · R reveal · H hint · ← → navigate · M hide / show motion. The timer never reveals or advances automatically.</p>
+<p id="liveNotice" class="status" role="status"></p>
+</section>
+<section id="finish" class="finish" hidden><p class="eyebrow">THAT’S A WRAP</p><h1>Great scenes.<br>Better company.</h1><div id="finalScores"></div><div class="actions"><button id="backGameBtn">Back to the quiz</button><button id="exportBtn">Export scores</button><button id="newBtn">New game</button></div></section>
+</main>
+<footer><span>A one-hour team activity.</span><span>Films · animation · television · one wildcard</span></footer>
+<dialog id="scoresDialog"><div class="dialog-heading"><h2>The leaderboard</h2><button id="closeScoresBtn" aria-label="Close scores">Close</button></div><div id="scoreList"></div><p class="small muted">Points are awarded per question, so revisiting a clip cannot award the same point twice.</p></dialog>
+<noscript><p>This quiz requires JavaScript. The printable answer sheet and Markdown host guide remain available.</p></noscript>
+</body></html>

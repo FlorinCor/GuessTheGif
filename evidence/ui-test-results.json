@@ -1,0 +1,21 @@
+{
+  "mode": "real-http-nested-path-synthetic-media",
+  "syntheticMedia": true,
+  "syntheticStorage": false,
+  "realMediaValidated": false,
+  "passed": [
+    "Setup validates team count/unique names; media readiness never automatically starts time; pre-reveal text and alt text contain no answer.",
+    "Timer start/pause/resume, hidden motion, tab-visibility event, reveal stop, hint, safe team-name rendering, reversible awards, revisits, void/restore and real localStorage resume pass.",
+    "All 40 navigation positions, reveals, exact alias lists (including Nemo/Dory, Wednesday and Mandalorian), wildcard void/revisit, tied final ranking and score export pass.",
+    "Relative assets work at /repository-name/; no requests for nonexistent local GIFs when the map is empty.",
+    "390 px setup/game layouts, reduced-motion opt-in, native focused-button Space and reveal shortcut pass.",
+    "Malformed saved JSON/state and denied browser storage are handled without crashes.",
+    "Expiry stops at zero without reveal/navigation; explicit timer reset works.",
+    "All keyboard shortcuts, non-intercepted typing, full-screen entry/exit and denied full-screen permission pass.",
+    "A missing mapped local file falls back to its remote GIF at the nested path.",
+    "Failed requests and an 18-second timeout display errors and cannot consume thinking time.",
+    "Limited-concurrency preflight does not grant approvals; preview opt-in, saved approvals, changed-media invalidation, corrupt review storage and review export pass.",
+    "Domain-root setup and answer-free printable sheet pass.",
+    "No JavaScript page errors."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "preparedOn": "2026-10-06",
+  "linkedSelections": 40,
+  "sourcePagesRead": 40,
+  "remoteAnimationsValidated": 40,
+  "allFramesDecoded": 40,
+  "allFrameSequencesScreened": 40,
+  "realBrowserAnimationsPassed": 40,
+  "brokenMediaIds": [],
+  "replacedIds": [
+    "q05",
+    "q09",
+    "q12",
+    "q13",
+    "q20",
+    "q21",
+    "q28",
+    "q34"
+  ],
+  "bundledGifFiles": 0,
+  "hostVenueApprovals": 0,
+  "redistributionRightsConfirmed": false,
+  "below400PxWidthIds": [
+    "q03",
+    "q08",
+    "q31",
+    "q33",
+    "q34"
+  ],
+  "below480PxWidthIds": [
+    "q03",
+    "q06",
+    "q08",
+    "q19",
+    "q23",
+    "q24",
+    "q31",
+    "q33",
+    "q34"
+  ],
+  "urlMethods": {
+    "observed-source-image-link": 25,
+    "standard-giphy-id-path": 8,
+    "derived-provider-path": 7
+  },
+  "nextAction": "Run review.html on the actual venue network/display; only publish after explicit user approval."
+}
